@@ -1,0 +1,13 @@
+{
+  "name": "Testy's Sustainable Materials",
+  "items": [
+    {
+      "name": "Blue Cloth",
+      "price": 59.99
+    },
+    {
+      "name": "Metal",
+      "price": 39.99
+    }
+  ]
+}
