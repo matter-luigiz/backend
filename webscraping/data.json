@@ -1,1180 +1,1942 @@
-{"RECYCLATE PE-LD POST-INDUSTRIAL GRANULES-87": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Turkey",
-    "Source": "Post-Industrial",
-    "Amount": "200 tons / Month",
-    "Price per tons": "880 \u20ac / t",
-    "Recycled content": "2 - 98 %",
-    "Image": "https://cdn.cirplus.com/platform/IWmG2pxyT9dJOgwuNSD9O/IWmG2pxyT9dJOgwuNSD9O.thumbnail.jpeg"
-},
-"RECYCLATE PE-LD POST-INDUSTRIAL GRANULES-102": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Turkey",
-    "Source": "Post-Industrial",
-    "Amount": "200 tons / Month",
-    "Price per tons": "1000 \u20ac / t",
-    "Recycled content": "2 - 98 %",
-    "Image": "https://cdn.cirplus.com/platform/BktJJ6blnaK0Rh-4GwWXJ/BktJJ6blnaK0Rh-4GwWXJ.thumbnail.jpeg"
-},
-"RECYCLATE PET POST-CONSUMER REGRIND-117": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Spain",
-    "Source": "Post-Consumer",
-    "Amount": "100 tons / Month",
-    "Price per tons": "On request",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/iW-CTmZ32vfwVueGxETCc/iW-CTmZ32vfwVueGxETCc.thumbnail.jpeg"
-},
-"RECYCLATE PS POST-INDUSTRIAL LUMPS-132": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Spain",
-    "Source": "Post-Industrial",
-    "Amount": "10000 tons / Year",
-    "Price per tons": "700 \u20ac / t",
-    "Recycled content": "0 - 100 %",
-    "Image": "https://cdn.cirplus.com/platform/bNDAcZ-8oxXFNAHSYW2Xk/bNDAcZ-8oxXFNAHSYW2Xk.thumbnail.jpeg"
-},
-"RECYCLATE PS POST-CONSUMER TRANSPARENT GRANULES-147": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Germany",
-    "Source": "Post-Consumer",
-    "Amount": "100 tons / Week",
-    "Price per tons": "On request",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/N_YG99MkqY-l47tu58dSP/N_YG99MkqY-l47tu58dSP.thumbnail.jpg"
-},
-"RECYCLATE PA POST-INDUSTRIAL BALES-162": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "India",
-    "Source": "Post-Industrial",
-    "Amount": "40 tons / Month",
-    "Price per tons": "2400 $ / t",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/LpPrv1TrAaxe3mBdRnktR/LpPrv1TrAaxe3mBdRnktR.thumbnail.jpeg"
-},
-"RECYCLATE PBT POST-CONSUMER REGRIND-177": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "India",
-    "Source": "Post-Consumer",
-    "Amount": "50 tons / Month",
-    "Price per tons": "1075 $ / t",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/MgR2GGRIeARKifHZr843C/MgR2GGRIeARKifHZr843C.thumbnail.jpeg"
-},
-"RECYCLATE PA 66 POST-INDUSTRIAL NATURAL GRANULES-192": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Czech Republic",
-    "Source": "Post-Industrial",
-    "Amount": "22 tons / Quarter",
-    "Price per tons": "3200 \u20ac / t",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/VzgPRpOwpcryt73Mddqzy/VzgPRpOwpcryt73Mddqzy.thumbnail.jpg"
-},
-"RECYCLATE PP POST-INDUSTRIAL GRANULES-207": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Poland",
-    "Source": "Post-Industrial",
-    "Amount": "80 tons / Quarter",
-    "Price per tons": "1050 \u20ac / t",
-    "Recycled content": "99 - 100 %",
-    "Image": "https://cdn.cirplus.com/platform/vl0RTF4SU2nS6xsJy46aS/vl0RTF4SU2nS6xsJy46aS.thumbnail.jpg"
-},
-"RECYCLATE PET POST-CONSUMER OTHER-222": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "United Kingdom",
-    "Source": "Post-Consumer",
-    "Amount": "2000 tons / Month",
-    "Price per tons": "1300 \u20ac / t",
-    "Recycled content": "99 - 100 %",
-    "Image": "https://cdn.cirplus.com/platform/gbTNlEhWXbSg_hOGePQtW/gbTNlEhWXbSg_hOGePQtW.thumbnail.jpg"
-},
-"RECYCLATE MIXED POST-INDUSTRIAL GRANULES-237": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Poland",
-    "Source": "Post-Industrial",
-    "Amount": "30 tons / Month",
-    "Price per tons": "1200 \u20ac / t",
-    "Recycled content": "0 %",
-    "Image": "https://cdn.cirplus.com/platform/ipRf2redynMr97PKbvksa/ipRf2redynMr97PKbvksa.thumbnail.jpg"
-},
-"RECYCLATE PET POST-INDUSTRIAL GRANULES-252": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Turkey",
-    "Source": "Post-Industrial",
-    "Amount": "750 tons / Month",
-    "Price per tons": "1250 \u20ac / t",
-    "Recycled content": "99 %",
-    "Image": "https://cdn.cirplus.com/platform/1qAj44uGnPcUfAkTe6ti_/1qAj44uGnPcUfAkTe6ti_.thumbnail.jpeg"
-},
-"RECYCLATE PET POST-CONSUMER REGRIND-267": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Indonesia",
-    "Source": "Post-Consumer",
-    "Amount": "1000 tons / Year",
-    "Price per tons": "950 $ / t",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/CsLJlQXDE0Wg9SCu6kC1U/CsLJlQXDE0Wg9SCu6kC1U.thumbnail.jpg"
-},
-"RECYCLATE PET POST-CONSUMER TRANSPARENT REGRIND-282": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Nigeria",
-    "Source": "Post-Consumer",
-    "Amount": "400 tons / Month",
-    "Price per tons": "450 $ / t",
-    "Recycled content": "99 - 100 %",
-    "Image": "https://cdn.cirplus.com/platform/RewMJ_8fvwqLzcJy9QCds/RewMJ_8fvwqLzcJy9QCds.thumbnail.jpg"
-},
-"RECYCLATE PET POST-CONSUMER REGRIND-297": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Bulgaria",
-    "Source": "Post-Consumer",
-    "Amount": "100 tons / Month",
-    "Price per tons": "1360 \u20ac / t",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/LtfBiVmieuQq-n4WPPkBF/LtfBiVmieuQq-n4WPPkBF.thumbnail.jpg"
-},
-"RECYCLATE PE-HD POST-CONSUMER REGRIND-312": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Spain",
-    "Source": "Post-Consumer",
-    "Amount": "25 tons / Month",
-    "Price per tons": "On request",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/pY-HT0M8jhgKnXFoz5dP4/pY-HT0M8jhgKnXFoz5dP4.thumbnail.jpg"
-},
-"RECYCLATE PE-LD POST-INDUSTRIAL GRANULES-327": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Spain",
-    "Source": "Post-Industrial",
-    "Amount": "75 tons / Month",
-    "Price per tons": "On request",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/W5ZSS9avbJkVcWEZUMYwv/W5ZSS9avbJkVcWEZUMYwv.thumbnail.jpg"
-},
-"RECYCLATE PE-LD POST-INDUSTRIAL GRANULES-342": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Spain",
-    "Source": "Post-Industrial",
-    "Amount": "75 tons / Month",
-    "Price per tons": "On request",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/jI2VPGUBem-r2YHjQnb8M/jI2VPGUBem-r2YHjQnb8M.thumbnail.png"
-},
-"RECYCLATE PP POST-INDUSTRIAL GRANULES-357": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Spain",
-    "Source": "Post-Industrial",
-    "Amount": "75 tons / Month",
-    "Price per tons": "On request",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/Rm8mGJ2LydHPqU4a0pXHC/Rm8mGJ2LydHPqU4a0pXHC.thumbnail.jpg"
-},
-"RECYCLATE PE-LD POST-INDUSTRIAL GRANULES-372": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Spain",
-    "Source": "Post-Industrial",
-    "Amount": "75 tons / Month",
-    "Price per tons": "On request",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/2RdnsdulONMuZKp-RVT0m/2RdnsdulONMuZKp-RVT0m.thumbnail.jpeg"
-},
-"RECYCLATE PP POST-INDUSTRIAL GRANULES-87": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Spain",
-    "Source": "Post-Industrial",
-    "Amount": "50 tons / Month",
-    "Price per tons": "On request",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/9htmq2_gn_e6-Dn9Hmtf3/9htmq2_gn_e6-Dn9Hmtf3.thumbnail.jpeg"
-},
-"RECYCLATE PP POST-INDUSTRIAL GRANULES-102": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Spain",
-    "Source": "Post-Industrial",
-    "Amount": "75 tons / Month",
-    "Price per tons": "On request",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/zl9UEpJOUlKxXjmGwlb_B/zl9UEpJOUlKxXjmGwlb_B.thumbnail.jpg"
-},
-"RECYCLATE PE-HD POST-CONSUMER REGRIND-132": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Spain",
-    "Source": "Post-Consumer",
-    "Amount": "100 tons / Month",
-    "Price per tons": "On request",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/NqkFeH3yeWQrSy1uPCj4w/NqkFeH3yeWQrSy1uPCj4w.thumbnail.jpg"
-},
-"RECYCLATE PP POST-CONSUMER REGRIND-147": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Spain",
-    "Source": "Post-Consumer",
-    "Amount": "75 tons / Month",
-    "Price per tons": "On request",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/-l3F9cyKqmeetb83q_Uwa/-l3F9cyKqmeetb83q_Uwa.thumbnail.jpg"
-},
-"RECYCLATE PP POST-INDUSTRIAL GRANULES-162": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Spain",
-    "Source": "Post-Industrial",
-    "Amount": "50 tons / Month",
-    "Price per tons": "On request",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/hgIdOYq3SVsEk5UaCchKE/hgIdOYq3SVsEk5UaCchKE.thumbnail.jpg"
-},
-"RECYCLATE PP POST-CONSUMER REGRIND-177": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Spain",
-    "Source": "Post-Consumer",
-    "Amount": "100 tons / Month",
-    "Price per tons": "On request",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/IS6IF47rgU0hGqz6v78It/IS6IF47rgU0hGqz6v78It.thumbnail.jpeg"
-},
-"RECYCLATE PE-HD POST-CONSUMER REGRIND-192": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Spain",
-    "Source": "Post-Consumer",
-    "Amount": "50 tons / Month",
-    "Price per tons": "On request",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/uwEHD7gEd_znC2pT9vgrV/uwEHD7gEd_znC2pT9vgrV.thumbnail.jpg"
-},
-"RECYCLATE PP POST-CONSUMER REGRIND-207": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Spain",
-    "Source": "Post-Consumer",
-    "Amount": "75 tons / Month",
-    "Price per tons": "On request",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/Wautmz6nk8IAQE9vv3in9/Wautmz6nk8IAQE9vv3in9.thumbnail.jpg"
-},
-"RECYCLATE PE-LD POST-INDUSTRIAL GRANULES-222": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Spain",
-    "Source": "Post-Industrial",
-    "Amount": "50 tons / Month",
-    "Price per tons": "On request",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/cUhjii-X3kzq3VC_SaRAF/cUhjii-X3kzq3VC_SaRAF.thumbnail.jpg"
-},
-"RECYCLATE PE-LD POST-INDUSTRIAL GRANULES-237": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Spain",
-    "Source": "Post-Industrial",
-    "Amount": "100 tons / Month",
-    "Price per tons": "On request",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/U5bRea01DPcO-KwkRxSG4/U5bRea01DPcO-KwkRxSG4.thumbnail.jpg"
-},
-"RECYCLATE LLD-PE POST-CONSUMER GRANULES-252": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Poland",
-    "Source": "Post-Consumer",
-    "Amount": "240 tons / Month",
-    "Price per tons": "On request",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/G52wwqyRTlRXcFP646X2u/G52wwqyRTlRXcFP646X2u.thumbnail.jpg"
-},
-"RECYCLATE PE-LD POST-CONSUMER OTHER GRANULES-267": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Poland",
-    "Source": "Post-Consumer",
-    "Amount": "120 tons / Month",
-    "Price per tons": "On request",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/g5_EMGQGdVeREn_OxjD3I/g5_EMGQGdVeREn_OxjD3I.thumbnail.jpg"
-},
-"RECYCLATE PET POST-CONSUMER REGRIND-282": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Serbia",
-    "Source": "Post-Consumer",
-    "Amount": "100 tons",
-    "Price per tons": "1350 \u20ac / t",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/XsxP5AdSCsucMwHR0COVF/XsxP5AdSCsucMwHR0COVF.thumbnail.jpg"
-},
-"RECYCLATE ABS POST-CONSUMER GRANULES-297": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Poland",
-    "Source": "Post-Consumer",
-    "Amount": "300 tons / Month",
-    "Price per tons": "On request",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/2J3W71geh6kDprUjdCsRx/2J3W71geh6kDprUjdCsRx.thumbnail.jpg"
-},
-"RECYCLATE PE-LD POST-CONSUMER OTHER GRANULES-312": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Poland",
-    "Source": "Post-Consumer",
-    "Amount": "230 tons / Month",
-    "Price per tons": "On request",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/9mXdhd7iZfjpdX_RV_c3Y/9mXdhd7iZfjpdX_RV_c3Y.thumbnail.jpg"
-},
-"RECYCLATE PE-LD POST-CONSUMER NATURAL GRANULES-327": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Indonesia",
-    "Source": "Post-Consumer",
-    "Amount": "100 tons / Month",
-    "Price per tons": "780 \u20ac / t",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/t66_3y9GLGEsSYtaHkg4Y/t66_3y9GLGEsSYtaHkg4Y.thumbnail.png"
-},
-"RECYCLATE PE-HD POST-INDUSTRIAL GREEN GRANULES-342": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "France",
-    "Source": "Post-Industrial",
-    "Amount": "44 tons",
-    "Price per tons": "950 \u20ac / t",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/oVSQ7k9saHeVFp8ysbQKl/oVSQ7k9saHeVFp8ysbQKl.thumbnail.jpg"
-},
-"RECYCLATE PE-LD POST-CONSUMER BLACK GRANULES-357": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Poland",
-    "Source": "Post-Consumer",
-    "Amount": "100 tons / Month",
-    "Price per tons": "1 \u20ac / t",
-    "Recycled content": "99 - 100 %",
-    "Image": "https://cdn.cirplus.com/platform/CbJo2etFE/CbJo2etFE.thumbnail.jpg"
-},
-"RECYCLATE LLD-PE POST-CONSUMER GRANULES-372": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Poland",
-    "Source": "Post-Consumer",
-    "Amount": "50 tons / Month",
-    "Price per tons": "1 \u20ac / t",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/3vzKD2_j8L8wuuT_1ktTs/3vzKD2_j8L8wuuT_1ktTs.thumbnail.jpg"
-},
-"RECYCLATE LLD-PE POST-CONSUMER GRANULES-87": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Poland",
-    "Source": "Post-Consumer",
-    "Amount": "50 tons / Month",
-    "Price per tons": "1 \u20ac / t",
-    "Recycled content": "1 - 100 %",
-    "Image": "https://cdn.cirplus.com/platform/5OYVilj_3IL2dd-BRbY6d/5OYVilj_3IL2dd-BRbY6d.thumbnail.jpg"
-},
-"RECYCLATE PE-LD POST-CONSUMER TRANSPARENT GRANULES-102": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Bulgaria",
-    "Source": "Post-Consumer",
-    "Amount": "5000 tons / Year",
-    "Price per tons": "1420 \u20ac / t",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/ze6NfArGDZgpD1JI-x8xE/ze6NfArGDZgpD1JI-x8xE.thumbnail.jpg"
-},
-"RECYCLATE PP POST-INDUSTRIAL BLACK GRANULES-117": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "South Korea",
-    "Source": "Post-Industrial",
-    "Amount": "400 tons / Month",
-    "Price per tons": "494 $ / t",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/azan8FNFAZxaZsyQzBLVV/azan8FNFAZxaZsyQzBLVV.thumbnail.jpg"
-},
-"RECYCLATE PET POST-CONSUMER REGRIND-132": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "United Kingdom",
-    "Source": "Post-Consumer",
-    "Amount": "1000 tons / Month",
-    "Price per tons": "On request",
-    "Recycled content": "90 - 100 %",
-    "Image": "https://cdn.cirplus.com/platform/3r-AqbFL-3c_NIJ2fW2eI/3r-AqbFL-3c_NIJ2fW2eI.thumbnail.png"
-},
-"RECYCLATE PVC POST-INDUSTRIAL REGRIND-147": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Netherlands",
-    "Source": "Post-Industrial",
-    "Amount": "20 tons / Week",
-    "Price per tons": "850 \u20ac / t",
-    "Recycled content": "98 - 100 %",
-    "Image": "https://cdn.cirplus.com/platform/r6o-Xs_c0QNIuhttoNxUY/r6o-Xs_c0QNIuhttoNxUY.thumbnail.jpg"
-},
-"RECYCLATE PET POST-CONSUMER TRANSPARENT REGRIND-162": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Nigeria",
-    "Source": "Post-Consumer",
-    "Amount": "600 tons / Month",
-    "Price per tons": "On request",
-    "Recycled content": "90 - 100 %",
-    "Image": "https://cdn.cirplus.com/platform/GPo9w1Ji9oMJZsLxacWUN/GPo9w1Ji9oMJZsLxacWUN.thumbnail.jpeg"
-},
-"RECYCLATE PE-HD POST-INDUSTRIAL GRANULES-177": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Poland",
-    "Source": "Post-Industrial",
-    "Amount": "40 tons / Month",
-    "Price per tons": "920 \u20ac / t",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/nPJVI3tYsdqEA-v6PG3GJ/nPJVI3tYsdqEA-v6PG3GJ.thumbnail.jpg"
-},
-"RECYCLATE PET POST-CONSUMER GRANULES-192": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Japan",
-    "Source": "Post-Consumer",
-    "Amount": "180 tons / Month",
-    "Price per tons": "On request",
-    "Recycled content": "72 %",
-    "Image": "https://cdn.cirplus.com/platform/YpB0OnzenO2st6G5Z4PD3/YpB0OnzenO2st6G5Z4PD3.thumbnail.jpg"
-},
-"RECYCLATE PE/PP POST-INDUSTRIAL GRANULES-207": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Poland",
-    "Source": "Post-Industrial",
-    "Amount": "100 tons / Month",
-    "Price per tons": "1050 \u20ac / t",
-    "Recycled content": "99 - 100 %",
-    "Image": "https://cdn.cirplus.com/platform/xEGDk6McA3aGan7eAuzGI/xEGDk6McA3aGan7eAuzGI.thumbnail.jpg"
-},
-"RECYCLATE POM POST-INDUSTRIAL GRANULES-222": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Poland",
-    "Source": "Post-Industrial",
-    "Amount": "100 tons / Month",
-    "Price per tons": "1300 \u20ac / t",
-    "Recycled content": "99 - 100 %",
-    "Image": "https://cdn.cirplus.com/platform/2528LpGyBW2fcIqEdqp_E/2528LpGyBW2fcIqEdqp_E.thumbnail.jpg"
-},
-"RECYCLATE PE-HD POST-CONSUMER REGRIND-237": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Germany",
-    "Source": "Post-Consumer",
-    "Amount": "100 tons / Quarter",
-    "Price per tons": "1000 \u20ac / t",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/6yQJE4rmNEnFTGVnN45gN/6yQJE4rmNEnFTGVnN45gN.thumbnail.jpg"
-},
-"RECYCLATE PP POST-INDUSTRIAL REGRIND-252": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Germany",
-    "Source": "Post-Industrial",
-    "Amount": "100 tons / Quarter",
-    "Price per tons": "1000 \u20ac / t",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/hb2WlJgHfSohw1U-0a5c1/hb2WlJgHfSohw1U-0a5c1.thumbnail.jpg"
-},
-"RECYCLATE PE-HD POST-CONSUMER REGRIND-267": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Greece",
-    "Source": "Post-Consumer",
-    "Amount": "1 tons / Month",
-    "Price per tons": "1300 \u20ac / t",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/bwqMpdDguL7_ftbZ4Y5jd/bwqMpdDguL7_ftbZ4Y5jd.thumbnail.jpeg"
-},
-"RECYCLATE PVC POST-CONSUMER MIXED REGRIND-282": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Netherlands",
-    "Source": "Post-Consumer",
-    "Amount": "100 tons / Month",
-    "Price per tons": "800 \u20ac / t",
-    "Recycled content": "98 - 100 %",
-    "Image": "https://cdn.cirplus.com/platform/DOqeaJpMuw0eePNn3OCLU/DOqeaJpMuw0eePNn3OCLU.thumbnail.jpeg"
-},
-"COMPOUND PVC POST-CONSUMER MIXED REGRIND-297": {
-    "Commodity type": "Compound",
-    "Pickup location": "Netherlands",
-    "Source": "Post-Consumer",
-    "Amount": "50 tons / Month",
-    "Price per tons": "775 \u20ac / t",
-    "Recycled content": "98 - 100 %",
-    "Image": "https://cdn.cirplus.com/platform/FqazCzpuj/FqazCzpuj.thumbnail.jpeg"
-},
-"RECYCLATE PVC POST-CONSUMER OTHER COMPOUND-312": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Netherlands",
-    "Source": "Post-Consumer",
-    "Amount": "50 tons / Month",
-    "Price per tons": "570 \u20ac / t",
-    "Recycled content": "90 - 100 %",
-    "Image": "https://cdn.cirplus.com/platform/wZEHS1fY-XGu4hmxwKsPX/wZEHS1fY-XGu4hmxwKsPX.thumbnail.jpg"
-},
-"RECYCLATE PET POST-CONSUMER REGRIND-327": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Albania",
-    "Source": "Post-Consumer",
-    "Amount": "150 tons / Month",
-    "Price per tons": "1100 \u20ac / t",
-    "Recycled content": "100 - 100 %",
-    "Image": "https://cdn.cirplus.com/platform/sS-uCv24wGlnE5dr-fzR7/sS-uCv24wGlnE5dr-fzR7.thumbnail.jpg"
-},
-"RECYCLATE PE-LD POST-CONSUMER GRANULES-342": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Germany",
-    "Source": "Post-Consumer",
-    "Amount": "100 tons / Month",
-    "Price per tons": "On request",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/nEfUbI0XSiUaS573xzNMm/nEfUbI0XSiUaS573xzNMm.thumbnail.jpg"
-},
-"RECYCLATE PE-LD POST-CONSUMER GRANULES-357": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Germany",
-    "Source": "Post-Consumer",
-    "Amount": "100 tons / Month",
-    "Price per tons": "On request",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/VsJKIj8oT9OAavRlOrv2F/VsJKIj8oT9OAavRlOrv2F.thumbnail.jpg"
-},
-"RECYCLATE PS POST-INDUSTRIAL GRANULES-372": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "India",
-    "Source": "Post-Industrial",
-    "Amount": "15 tons / Month",
-    "Price per tons": "437 $ / t",
-    "Recycled content": "95 - 100 %",
-    "Image": "https://cdn.cirplus.com/platform/bbWjxsofKYhdMq-rpVMsI/bbWjxsofKYhdMq-rpVMsI.thumbnail.jpg"
-},
-"RECYCLATE PET POST-CONSUMER REGRIND-87": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Nigeria",
-    "Source": "Post-Consumer",
-    "Amount": "100 tons / Month",
-    "Price per tons": "1000 $ / t",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/lZlbfpOyZr-AUlOCc8a85/lZlbfpOyZr-AUlOCc8a85.thumbnail.jpeg"
-},
-"COMPOUND LLD-PE POST-INDUSTRIAL OTHER-102": {
-    "Commodity type": "Compound",
-    "Pickup location": "India",
-    "Source": "Post-Industrial",
-    "Amount": "450 tons / Month",
-    "Price per tons": "4430 $ / t",
-    "Recycled content": "0 %",
-    "Image": "https://cdn.cirplus.com/platform/MZN73bEPCHp3LfskvHV0J/MZN73bEPCHp3LfskvHV0J.thumbnail.jpg"
-},
-"RECYCLATE LLD-PE POST-CONSUMER TRANSPARENT GRANULES-117": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Brazil",
-    "Source": "Post-Consumer",
-    "Amount": "200 tons / Month",
-    "Price per tons": "On request",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/ILLXvrCuAI4J0eO2cUCMN/ILLXvrCuAI4J0eO2cUCMN.thumbnail.png"
-},
-"RECYCLATE PE-LD POST-CONSUMER GRAY GRANULES-132": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Germany",
-    "Source": "Post-Consumer",
-    "Amount": "100 tons / Month",
-    "Price per tons": "850 \u20ac / t",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/w_bGIpXYQT/w_bGIpXYQT.thumbnail.png"
-},
-"RECYCLATE PP POST-CONSUMER BLUE GRANULES-147": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Germany",
-    "Source": "Post-Consumer",
-    "Amount": "200 tons / Month",
-    "Price per tons": "1361 \u20ac / t",
-    "Recycled content": null,
-    "Image": "https://cdn.cirplus.com/platform/6LTq0Gnvm/6LTq0Gnvm.thumbnail.jpg"
-},
-"RECYCLATE PP POST-CONSUMER BLACK GRANULES-159": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Germany",
-    "Source": "Post-Consumer",
-    "Amount": "200 tons / Month",
-    "Price per tons": "1263 \u20ac / t",
-    "Recycled content": null,
-    "Image": "https://cdn.cirplus.com/platform/_4iNPAlFu/_4iNPAlFu.thumbnail.jpg"
-},
-"RECYCLATE PP POST-CONSUMER GRAY GRANULES-171": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Germany",
-    "Source": "Post-Consumer",
-    "Amount": "200 tons / Month",
-    "Price per tons": "1265 \u20ac / t",
-    "Recycled content": null,
-    "Image": "https://cdn.cirplus.com/platform/4gBGw-kUA/4gBGw-kUA.thumbnail.jpg"
-},
-"RECYCLATE PP POST-CONSUMER RED GRANULES-183": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Germany",
-    "Source": "Post-Consumer",
-    "Amount": "200 tons / Month",
-    "Price per tons": "1293 \u20ac / t",
-    "Recycled content": null,
-    "Image": "https://cdn.cirplus.com/platform/zYOrRVtjM/zYOrRVtjM.thumbnail.jpg"
-},
-"RECYCLATE PP POST-CONSUMER GRAY GRANULES-195": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Germany",
-    "Source": "Post-Consumer",
-    "Amount": "200 tons / Month",
-    "Price per tons": "1244 \u20ac / t",
-    "Recycled content": null,
-    "Image": "https://cdn.cirplus.com/platform/o_f9SZyUa/o_f9SZyUa.thumbnail.jpg"
-},
-"RECYCLATE PP POST-CONSUMER GRAY GRANULES-207": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Germany",
-    "Source": "Post-Consumer",
-    "Amount": "200 tons / Month",
-    "Price per tons": "1273 \u20ac / t",
-    "Recycled content": null,
-    "Image": "https://cdn.cirplus.com/platform/-n0tFInoZ/-n0tFInoZ.thumbnail.jpg"
-},
-"RECYCLATE PE-LD POST-CONSUMER GRAY GRANULES-219": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Germany",
-    "Source": "Post-Consumer",
-    "Amount": "100 tons / Month",
-    "Price per tons": "690 \u20ac / t",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/T7oy3MpUG/T7oy3MpUG.thumbnail.jpg"
-},
-"RECYCLATE PP POST-CONSUMER GRAY GRANULES-234": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Germany",
-    "Source": "Post-Consumer",
-    "Amount": "200 tons / Month",
-    "Price per tons": "1250 \u20ac / t",
-    "Recycled content": null,
-    "Image": "https://cdn.cirplus.com/platform/enmNdLyYE/enmNdLyYE.thumbnail.jpg"
-},
-"RECYCLATE PE-LD POST-CONSUMER BLACK GRANULES-246": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Germany",
-    "Source": "Post-Consumer",
-    "Amount": "100 tons / Month",
-    "Price per tons": "On request",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/ZhHSVJGF4wAeMeUfx4nf4/ZhHSVJGF4wAeMeUfx4nf4.thumbnail.jpg"
-},
-"RECYCLATE PE-LD POST-CONSUMER GRAY GRANULES-261": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Germany",
-    "Source": "Post-Consumer",
-    "Amount": "25 tons / Month",
-    "Price per tons": "On request",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/swELBBKEA-Klv1XgtKZGo/swELBBKEA-Klv1XgtKZGo.thumbnail.jpg"
-},
-"RECYCLATE PE-LD POST-CONSUMER BALES-276": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Spain",
-    "Source": "Post-Consumer",
-    "Amount": "100 tons / Week",
-    "Price per tons": "580 \u20ac / t",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/LQmc95le-PNroKZXziApp/LQmc95le-PNroKZXziApp.thumbnail.jpeg"
-},
-"OFF-SPEC PET POST-INDUSTRIAL OTHER-291": {
-    "Commodity type": "Off-Spec",
-    "Pickup location": "Portugal",
-    "Source": "Post-Industrial",
-    "Amount": "200 tons / Month",
-    "Price per tons": "500 \u20ac / t",
-    "Recycled content": "98 - 99 %",
-    "Image": "https://cdn.cirplus.com/platform/6dNciikdV7U_uZ5e7SmGk/6dNciikdV7U_uZ5e7SmGk.thumbnail.jpg"
-},
-"RECYCLATE PC POST-INDUSTRIAL REGRIND-306": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Portugal",
-    "Source": "Post-Industrial",
-    "Amount": "100 tons / Month",
-    "Price per tons": "450 \u20ac / t",
-    "Recycled content": "98 - 99 %",
-    "Image": "https://cdn.cirplus.com/platform/VbIAmIRREX85EReGDeaV4/VbIAmIRREX85EReGDeaV4.thumbnail.jpg"
-},
-"RECYCLATE PP POST-CONSUMER GRANULES-321": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Bulgaria",
-    "Source": "Post-Consumer",
-    "Amount": "100 tons / Month",
-    "Price per tons": "950 \u20ac / t",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/zZPARjXTO6l8of-c1XsgJ/zZPARjXTO6l8of-c1XsgJ.thumbnail.jpg"
-},
-"RECYCLATE PE-HD POST-CONSUMER GRANULES-336": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Bulgaria",
-    "Source": "Post-Consumer",
-    "Amount": "100 tons / Month",
-    "Price per tons": "1300 \u20ac / t",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/9WFji_LNcbw8gJSVXSTcm/9WFji_LNcbw8gJSVXSTcm.thumbnail.jpg"
-},
-"RECYCLATE PP POST-CONSUMER REGRIND-351": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Poland",
-    "Source": "Post-Consumer",
-    "Amount": "150 tons / Month",
-    "Price per tons": "On request",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/JHNEHS6d8FzzNnS7ER5Ox/JHNEHS6d8FzzNnS7ER5Ox.thumbnail.jpg"
-},
-"COMPOUND PP POST-INDUSTRIAL BALES-87": {
-    "Commodity type": "Compound",
-    "Pickup location": "Czech Republic",
-    "Source": "Post-Industrial",
-    "Amount": "100 tons / Week",
-    "Price per tons": "350 \u20ac / t",
-    "Recycled content": "1 - 3 %",
-    "Image": "https://cdn.cirplus.com/platform/YarZY8hX5-k03c6T9444u/YarZY8hX5-k03c6T9444u.thumbnail.jpeg"
-},
-"COMPOUND PE-HD POST-INDUSTRIAL REGRIND-102": {
-    "Commodity type": "Compound",
-    "Pickup location": "Czech Republic",
-    "Source": "Post-Industrial",
-    "Amount": "100 tons / Month",
-    "Price per tons": "400 \u20ac / t",
-    "Recycled content": "1 - 3 %",
-    "Image": "https://cdn.cirplus.com/platform/xhy1VvJEeePPmylPk_OEL/xhy1VvJEeePPmylPk_OEL.thumbnail.jpg"
-},
-"COMPOUND LLD-PE POST-INDUSTRIAL ROLLS-117": {
-    "Commodity type": "Compound",
-    "Pickup location": "Czech Republic",
-    "Source": "Post-Industrial",
-    "Amount": "100 tons / Month",
-    "Price per tons": "380 \u20ac / t",
-    "Recycled content": "1 - 2 %",
-    "Image": "https://cdn.cirplus.com/platform/2e-NWFq0gZKKHUEXdjFMt/2e-NWFq0gZKKHUEXdjFMt.thumbnail.jpg"
-},
-"RECYCLATE PET POST-INDUSTRIAL REGRIND-132": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Czech Republic",
-    "Source": "Post-Industrial",
-    "Amount": "100 tons / Month",
-    "Price per tons": "800 \u20ac / t",
-    "Recycled content": "1 - 2 %",
-    "Image": "https://cdn.cirplus.com/platform/hHRnpFLvxOP3MkhcfvSbs/hHRnpFLvxOP3MkhcfvSbs.thumbnail.jpeg"
-},
-"COMPOUND PET POST-INDUSTRIAL BALES-147": {
-    "Commodity type": "Compound",
-    "Pickup location": "Czech Republic",
-    "Source": "Post-Industrial",
-    "Amount": "100 tons / Week",
-    "Price per tons": "330 \u20ac / t",
-    "Recycled content": "01 - 1 %",
-    "Image": "https://cdn.cirplus.com/platform/i0YpTkgdNCnLWYh0sgsds/i0YpTkgdNCnLWYh0sgsds.thumbnail.jpeg"
-},
-"RECYCLATE TPE-U POST-INDUSTRIAL GRANULES-162": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Hungary",
-    "Source": "Post-Industrial",
-    "Amount": "23 tons / Quarter",
-    "Price per tons": "2150 \u20ac / t",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/jjHLpqpmpQHzPyNscstGQ/jjHLpqpmpQHzPyNscstGQ.thumbnail.jpg"
-},
-"COMPOUND PP POST-INDUSTRIAL GRANULES-177": {
-    "Commodity type": "Compound",
-    "Pickup location": "Czech Republic",
-    "Source": "Post-Industrial",
-    "Amount": "22 tons / Month",
-    "Price per tons": "On request",
-    "Recycled content": "1 - 2 %",
-    "Image": "https://cdn.cirplus.com/platform/D4YAdnBchW503f4gl1uSK/D4YAdnBchW503f4gl1uSK.thumbnail.jpg"
-},
-"RECYCLATE PP POST-CONSUMER GRANULES-192": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Turkey",
-    "Source": "Post-Consumer",
-    "Amount": "120 tons / Month",
-    "Price per tons": "On request",
-    "Recycled content": "99 - 100 %",
-    "Image": "https://cdn.cirplus.com/platform/OoprcTq52B1LVbWzcRcod/OoprcTq52B1LVbWzcRcod.thumbnail.png"
-},
-"RECYCLATE PE-HD POST-INDUSTRIAL GRANULES-207": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Turkey",
-    "Source": "Post-Industrial",
-    "Amount": "200 tons / Month",
-    "Price per tons": "On request",
-    "Recycled content": "99 - 100 %",
-    "Image": "https://cdn.cirplus.com/platform/WGFBpiS2lDLlHLpMv4p2O/WGFBpiS2lDLlHLpMv4p2O.thumbnail.jpeg"
-},
-"RECYCLATE PET POST-CONSUMER GRANULES-222": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Czech Republic",
-    "Source": "Post-Consumer",
-    "Amount": "100 tons / Month",
-    "Price per tons": "On request",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/P_isTXjPkuwR-VH00Z8Hk/P_isTXjPkuwR-VH00Z8Hk.thumbnail.png"
-},
-"RECYCLATE PP POST-INDUSTRIAL GRANULES-237": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Turkey",
-    "Source": "Post-Industrial",
-    "Amount": "200 tons / Month",
-    "Price per tons": "On request",
-    "Recycled content": "99 - 100 %",
-    "Image": "https://cdn.cirplus.com/platform/aFSLdt3AdEBzpHcqjiBf9/aFSLdt3AdEBzpHcqjiBf9.thumbnail.png"
-},
-"RECYCLATE PE-HD POST-CONSUMER MIXED OTHER-252": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Germany",
-    "Source": "Post-Consumer",
-    "Amount": "20 tons / Month",
-    "Price per tons": "480 \u20ac / t",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/6E-ZZ4RBbmFYSt_3EY3y-/6E-ZZ4RBbmFYSt_3EY3y-.thumbnail.jpg"
-},
-"RECYCLATE PE-LD POST-CONSUMER GRANULES-282": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Turkey",
-    "Source": "Post-Consumer",
-    "Amount": "1200 tons / Month",
-    "Price per tons": "On request",
-    "Recycled content": "99 - 100 %",
-    "Image": "https://cdn.cirplus.com/platform/PpPjO61X63P6rpq9DPkyA/PpPjO61X63P6rpq9DPkyA.thumbnail.jpg"
-},
-"RECYCLATE PE-LD POST-CONSUMER GREEN GRANULES-297": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Germany",
-    "Source": "Post-Consumer",
-    "Amount": "200 tons / Month",
-    "Price per tons": "580 \u20ac / t",
-    "Recycled content": "99 - 100 %",
-    "Image": "https://cdn.cirplus.com/platform/ZBHnDOBeXJgboFKZ5BNvz/ZBHnDOBeXJgboFKZ5BNvz.thumbnail.jpg"
-},
-"COMPOUND PP POST-CONSUMER TRANSPARENT GRANULES-312": {
-    "Commodity type": "Compound",
-    "Pickup location": "Germany",
-    "Source": "Post-Consumer",
-    "Amount": "20 tons / Month",
-    "Price per tons": "1730 \u20ac / t",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/SEEf2ElB0/SEEf2ElB0.thumbnail.jpeg"
-},
-"RECYCLATE PE-HD POST-CONSUMER OTHER-327": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Greece",
-    "Source": "Post-Consumer",
-    "Amount": "75 tons / Month",
-    "Price per tons": "On request",
-    "Recycled content": "19 - 20 %",
-    "Image": "https://cdn.cirplus.com/platform/UvxHefLO1t_WhPyLz51fd/UvxHefLO1t_WhPyLz51fd.thumbnail.jpg"
-},
-"RECYCLATE PE-HD POST-INDUSTRIAL OTHER-342": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Greece",
-    "Source": "Post-Industrial",
-    "Amount": "100 tons / Month",
-    "Price per tons": "On request",
-    "Recycled content": "0 %",
-    "Image": "https://cdn.cirplus.com/platform/_4hlrzmKGzjG3ATjYIR_b/_4hlrzmKGzjG3ATjYIR_b.thumbnail.jpg"
-},
-"RECYCLATE PE-LD POST-CONSUMER OTHER-357": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Greece",
-    "Source": "Post-Consumer",
-    "Amount": "350 tons / Month",
-    "Price per tons": "On request",
-    "Recycled content": "10 %",
-    "Image": "https://cdn.cirplus.com/platform/UNVUbli4WRR0vl8OfozWA/UNVUbli4WRR0vl8OfozWA.thumbnail.jpg"
-},
-"RECYCLATE PE-LD POST-CONSUMER OTHER-372": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Greece",
-    "Source": "Post-Consumer",
-    "Amount": "50 tons / Month",
-    "Price per tons": "On request",
-    "Recycled content": "0 %",
-    "Image": "https://cdn.cirplus.com/platform/pk4l60kF7oE9PPmI68x6A/pk4l60kF7oE9PPmI68x6A.thumbnail.jpg"
-},
-"RECYCLATE PE-LD POST-CONSUMER OTHER-87": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Greece",
-    "Source": "Post-Consumer",
-    "Amount": "100 tons / Month",
-    "Price per tons": "On request",
-    "Recycled content": "0 %",
-    "Image": "https://cdn.cirplus.com/platform/yFwMou4J7hz9XYG6yrW_z/yFwMou4J7hz9XYG6yrW_z.thumbnail.jpg"
-},
-"RECYCLATE PE-LD POST-CONSUMER OTHER-102": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Greece",
-    "Source": "Post-Consumer",
-    "Amount": "50 tons / Month",
-    "Price per tons": "On request",
-    "Recycled content": "0 %",
-    "Image": "https://cdn.cirplus.com/platform/3EOF8L8veI0TyAq-33G6K/3EOF8L8veI0TyAq-33G6K.thumbnail.jpg"
-},
-"RECYCLATE LLD-PE POST-CONSUMER OTHER-117": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Greece",
-    "Source": "Post-Consumer",
-    "Amount": "75 tons / Month",
-    "Price per tons": "On request",
-    "Recycled content": "0 %",
-    "Image": "https://cdn.cirplus.com/platform/l26WdgI3AC5j3EC7YforN/l26WdgI3AC5j3EC7YforN.thumbnail.jpg"
-},
-"RECYCLATE PS POST-CONSUMER OTHER-132": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Greece",
-    "Source": "Post-Consumer",
-    "Amount": "100 tons / Month",
-    "Price per tons": "On request",
-    "Recycled content": "0 %",
-    "Image": "https://cdn.cirplus.com/platform/4PumnkRNMI2gmdCcQf8qL/4PumnkRNMI2gmdCcQf8qL.thumbnail.jpg"
-},
-"RECYCLATE PVC POST-CONSUMER GRAY GRANULES-147": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Poland",
-    "Source": "Post-Consumer",
-    "Amount": "100 tons / Month",
-    "Price per tons": "On request",
-    "Recycled content": "80 - 90 %",
-    "Image": "https://cdn.cirplus.com/platform/0SgZ5Xk2PQ-cvVncuu8ao/0SgZ5Xk2PQ-cvVncuu8ao.thumbnail.jpg"
-},
-"RECYCLATE PE-HD POST-INDUSTRIAL GRANULES-162": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Poland",
-    "Source": "Post-Industrial",
-    "Amount": "40 tons / Month",
-    "Price per tons": "980 \u20ac / t",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/K0-aF05ha_lKbMWcIFTyj/K0-aF05ha_lKbMWcIFTyj.thumbnail.jpg"
-},
-"RECYCLATE PE-HD POST-CONSUMER WHITE GRANULES-177": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Philippines",
-    "Source": "Post-Consumer",
-    "Amount": "30 tons / Month",
-    "Price per tons": "1250 $ / t",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/-tLsAmXAdc5a4LIP3XGm4/-tLsAmXAdc5a4LIP3XGm4.thumbnail.jpg"
-},
-"RECYCLATE PP POST-INDUSTRIAL GRANULES-192": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Poland",
-    "Source": "Post-Industrial",
-    "Amount": "121 tons / Month",
-    "Price per tons": "1000 \u20ac / t",
-    "Recycled content": "85 - 100 %",
-    "Image": "https://cdn.cirplus.com/platform/VTSDXv6CbZdSRv9HvaDXO/VTSDXv6CbZdSRv9HvaDXO.thumbnail.jpg"
-},
-"RECYCLATE PP POST-CONSUMER GRANULES-207": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Turkey",
-    "Source": "Post-Consumer",
-    "Amount": "200 tons / Month",
-    "Price per tons": "915 \u20ac / t",
-    "Recycled content": "10 - 20 %",
-    "Image": "https://cdn.cirplus.com/platform/jAyP2zzIOUIHLCYwVYsbC/jAyP2zzIOUIHLCYwVYsbC.thumbnail.jpg"
-},
-"RECYCLATE PP POST-CONSUMER GRANULES-222": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Turkey",
-    "Source": "Post-Consumer",
-    "Amount": "125 tons / Month",
-    "Price per tons": "1115 \u20ac / t",
-    "Recycled content": "1 - 3 %",
-    "Image": "https://cdn.cirplus.com/platform/XT2IxKLCV-n7dJuIf4YJw/XT2IxKLCV-n7dJuIf4YJw.thumbnail.jpg"
-},
-"RECYCLATE PP POST-CONSUMER GRANULES-237": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Turkey",
-    "Source": "Post-Consumer",
-    "Amount": "125 tons / Month",
-    "Price per tons": "1250 \u20ac / t",
-    "Recycled content": "0 - 1 %",
-    "Image": "https://cdn.cirplus.com/platform/MakHgbm7tFFLZCAcd61VI/MakHgbm7tFFLZCAcd61VI.thumbnail.jpg"
-},
-"RECYCLATE PE-HD POST-CONSUMER GRANULES-252": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Turkey",
-    "Source": "Post-Consumer",
-    "Amount": "180 tons / Month",
-    "Price per tons": "1100 \u20ac / t",
-    "Recycled content": "2 - 8 %",
-    "Image": "https://cdn.cirplus.com/platform/eaZcQFErAMe3BPhHdmcu8/eaZcQFErAMe3BPhHdmcu8.thumbnail.jpg"
-},
-"RECYCLATE PE-HD POST-CONSUMER GRANULES-267": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Turkey",
-    "Source": "Post-Consumer",
-    "Amount": "180 tons / Month",
-    "Price per tons": "1100 \u20ac / t",
-    "Recycled content": "2 - 10 %",
-    "Image": "https://cdn.cirplus.com/platform/0KbsC1PZXvvvt1l6I3EbK/0KbsC1PZXvvvt1l6I3EbK.thumbnail.jpg"
-},
-"RECYCLATE PE-HD POST-CONSUMER GRANULES-282": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Turkey",
-    "Source": "Post-Consumer",
-    "Amount": "180 tons / Month",
-    "Price per tons": "1100 \u20ac / t",
-    "Recycled content": "2 - 5 %",
-    "Image": "https://cdn.cirplus.com/platform/tbuSbx5H_Nf9cX02-boVq/tbuSbx5H_Nf9cX02-boVq.thumbnail.jpg"
-},
-"RECYCLATE PE-HD POST-CONSUMER GRANULES-297": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Turkey",
-    "Source": "Post-Consumer",
-    "Amount": "180 tons / Month",
-    "Price per tons": "1100 \u20ac / t",
-    "Recycled content": "2 - 5 %",
-    "Image": "https://cdn.cirplus.com/platform/27J3eIWUUzTHUl2GW_2fu/27J3eIWUUzTHUl2GW_2fu.thumbnail.jpg"
-},
-"RECYCLATE PE-HD POST-CONSUMER GRANULES-312": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Turkey",
-    "Source": "Post-Consumer",
-    "Amount": "180 tons / Month",
-    "Price per tons": "1100 \u20ac / t",
-    "Recycled content": "2 - 8 %",
-    "Image": "https://cdn.cirplus.com/platform/XnuywusTi-LjPq-t3FOSl/XnuywusTi-LjPq-t3FOSl.thumbnail.jpg"
-},
-"RECYCLATE PE-LD POST-CONSUMER GRANULES-327": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Turkey",
-    "Source": "Post-Consumer",
-    "Amount": "150 tons / Month",
-    "Price per tons": "915 \u20ac / t",
-    "Recycled content": "2 - 15 %",
-    "Image": "https://cdn.cirplus.com/platform/ccf8cYemNAbleKc1QktqD/ccf8cYemNAbleKc1QktqD.thumbnail.jpg"
-},
-"RECYCLATE PE-LD POST-CONSUMER GRANULES-372": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Turkey",
-    "Source": "Post-Consumer",
-    "Amount": "100 tons / Month",
-    "Price per tons": "1100 \u20ac / t",
-    "Recycled content": "2 - 5 %",
-    "Image": "https://cdn.cirplus.com/platform/YGMywd7dKBHBsPPXh9jth/YGMywd7dKBHBsPPXh9jth.thumbnail.jpg"
-},
-"RECYCLATE PE-LD POST-CONSUMER GRANULES-87": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Turkey",
-    "Source": "Post-Consumer",
-    "Amount": "50 tons / Month",
-    "Price per tons": "1300 \u20ac / t",
-    "Recycled content": "2 - 5 %",
-    "Image": "https://cdn.cirplus.com/platform/kkjKD4mWbVS2EA8zvGRJ0/kkjKD4mWbVS2EA8zvGRJ0.thumbnail.jpg"
-},
-"RECYCLATE PE-HD POST-INDUSTRIAL GRAY REGRIND-102": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Germany",
-    "Source": "Post-Industrial",
-    "Amount": "500 tons / Year",
-    "Price per tons": "On request",
-    "Recycled content": "99 - 100 %",
-    "Image": "https://cdn.cirplus.com/platform/sA6frMQ1-8bVmC-2eY1Jw/sA6frMQ1-8bVmC-2eY1Jw.thumbnail.jpg"
-},
-"OFF-SPEC PET POST-INDUSTRIAL OTHER-117": {
-    "Commodity type": "Off-Spec",
-    "Pickup location": "Belgium",
-    "Source": "Post-Industrial",
-    "Amount": "60 tons / Month",
-    "Price per tons": "On request",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/2IaZ1g3wBfpYsJABMFVJP/2IaZ1g3wBfpYsJABMFVJP.thumbnail.jpg"
-},
-"RECYCLATE PET POST-CONSUMER REGRIND-147": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Netherlands",
-    "Source": "Post-Consumer",
-    "Amount": "20 tons / Week",
-    "Price per tons": "1200 \u20ac / t",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/RsBHYuF2it53MJWbL8OOS/RsBHYuF2it53MJWbL8OOS.thumbnail.png"
-},
-"RECYCLATE PET POST-CONSUMER REGRIND-162": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Belgium",
-    "Source": "Post-Consumer",
-    "Amount": "20 tons / Week",
-    "Price per tons": "950 \u20ac / t",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/01jM_u032d-sJNPvcNS6-/01jM_u032d-sJNPvcNS6-.thumbnail.jpg"
-},
-"OFF-SPEC PET POST-INDUSTRIAL REGRIND-177": {
-    "Commodity type": "Off-Spec",
-    "Pickup location": "Belgium",
-    "Source": "Post-Industrial",
-    "Amount": "23 tons / Month",
-    "Price per tons": "1300 \u20ac / t",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/VBzXUY8iv60nfsvNn1Toi/VBzXUY8iv60nfsvNn1Toi.thumbnail.jpg"
-},
-"RECYCLATE PC POST-INDUSTRIAL REGRIND-207": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Tunisia",
-    "Source": "Post-Industrial",
-    "Amount": "50 tons / Month",
-    "Price per tons": "1000 \u20ac / t",
-    "Recycled content": "1 - 100 %",
-    "Image": "https://cdn.cirplus.com/platform/qtSBLLOXkjL6Uzh7J_2Kh/qtSBLLOXkjL6Uzh7J_2Kh.thumbnail.jpg"
-},
-"RECYCLATE POM POST-INDUSTRIAL REGRIND-222": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Tunisia",
-    "Source": "Post-Industrial",
-    "Amount": "25 tons / Month",
-    "Price per tons": "800 \u20ac / t",
-    "Recycled content": "1 - 100 %",
-    "Image": "https://cdn.cirplus.com/platform/Tm7H_6hT5f22J8qEUpP46/Tm7H_6hT5f22J8qEUpP46.thumbnail.jpg"
-},
-"RECYCLATE ABS POST-INDUSTRIAL REGRIND-237": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Tunisia",
-    "Source": "Post-Industrial",
-    "Amount": "50 tons / Month",
-    "Price per tons": "1000 \u20ac / t",
-    "Recycled content": "0 - 100 %",
-    "Image": "https://cdn.cirplus.com/platform/Byo7mc3yd9RECDBpUSB9K/Byo7mc3yd9RECDBpUSB9K.thumbnail.jpg"
-},
-"RECYCLATE LLD-PE POST-INDUSTRIAL GRANULES-252": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Romania",
-    "Source": "Post-Industrial",
-    "Amount": "100 tons / Month",
-    "Price per tons": "990 \u20ac / t",
-    "Recycled content": "80 - 100 %",
-    "Image": "https://cdn.cirplus.com/platform/i8PyBYZBFLVDdxIlvu80p/i8PyBYZBFLVDdxIlvu80p.thumbnail.jpg"
-},
-"RECYCLATE PA12 POST-INDUSTRIAL BLACK GRANULES-267": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Germany",
-    "Source": "Post-Industrial",
-    "Amount": "4 tons / Month",
-    "Price per tons": "On request",
-    "Recycled content": "97 - 98 %",
-    "Image": "https://cdn.cirplus.com/platform/fliczrTHATN-rK0cZT-lN/fliczrTHATN-rK0cZT-lN.thumbnail.jpg"
-},
-"RECYCLATE EVA POST-INDUSTRIAL REGRIND-282": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Italy",
-    "Source": "Post-Industrial",
-    "Amount": "22 tons / Month",
-    "Price per tons": "1000 \u20ac / t",
-    "Recycled content": "98 - 100 %",
-    "Image": "https://cdn.cirplus.com/platform/B6l6JQ1dEz2PTBuolLObj/B6l6JQ1dEz2PTBuolLObj.thumbnail.jpeg"
-},
-"RECYCLATE PVC POST-CONSUMER REGRIND-297": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "Netherlands",
-    "Source": "Post-Consumer",
-    "Amount": "75 tons / Month",
-    "Price per tons": "570 \u20ac / t",
-    "Recycled content": "90 - 100 %",
-    "Image": "https://cdn.cirplus.com/platform/zuLQ98wzsb8AaztGDw1Cv/zuLQ98wzsb8AaztGDw1Cv.thumbnail.jpeg"
-},
-"RECYCLATE PET POST-CONSUMER BLUE REGRIND-312": {
-    "Commodity type": "Recyclate",
-    "Pickup location": "United Arab Emirates",
-    "Source": "Post-Consumer",
-    "Amount": "100 tons / Month",
-    "Price per tons": "870 $ / t",
-    "Recycled content": "100 %",
-    "Image": "https://cdn.cirplus.com/platform/gkGpVCrlGQ6V1IdHz00kL/gkGpVCrlGQ6V1IdHz00kL.thumbnail.jpg"
-},
-"COMPOUND ABS POST-CONSUMER-327": {
-    "Commodity type": "Compound",
-    "Pickup location": "Germany",
-    "Source": "Post-Consumer",
-    "Amount": "10 tons / Month",
-    "Price per tons": "2680 \u20ac / t",
-    "Recycled content": "85 %",
-    "Image": "https://cdn.cirplus.com/platform/nPmN7ojdFr7Q7GmY8fLH8/nPmN7ojdFr7Q7GmY8fLH8.thumbnail.jpg"
-}
+{ "Cradle" : {
+        "Beluga 2.0 denim fabrics": {
+            "supplier": "RAJBY TEXTILES PVT LTD",
+            "description": "Beluga 2.0 denim fabrics are available in multiple product variations and compositions. Made with hemp, linen\u2026",
+            "Sustainability Rating": "Platinum V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_WEB_beluga_Rajby_2020_283_200_c1_c_t_smart_scale.jpg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/beluga-rajby-textiles-pvt-ltd"
+        },
+        "\"Stevie\" Garments Collection": {
+            "supplier": "ARTISTIC DENIM MILLS LTD",
+            "description": "Denim apparel",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_ADM_Stevie_Garments_2022_283_200_c1_c_t_smart_scale.jpeg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/stevie-garments-collection-artistic-denim-mills-ltd"
+        },
+        "\u201cWellicious\u201d yoga clothing for a healthy and\u2026": {
+            "supplier": "WELLICIOUS/PRECIOUS WELLBEING LTD",
+            "description": "Yoga Apparel line made from three different types of fabric.",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_PreciousWellbeing_WelliciousYogaClothing_2022_283_200_c1_c_t_smart_scale.jpeg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/wellicious-yoga-clothing-for-a-healthy-and-sustainable-lifestyle-precious-wellbeing-ltd"
+        },
+        "AMANN Lifecycle Cotton": {
+            "supplier": "AMANN & S\u00d6HNE GMBH & CO KG",
+            "description": "AMANN sewing and embroidery threads have been designed for durability and maximum quality and sustainability\u2026",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_AMANN_Cotton_BN_2021_283_200_c1_c_t_smart_scale.jpg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/amann-lifecycle-cotton-amann-shne-gmbh-co-kg"
+        },
+        "AMANN Lifecycle POLYAMIDE": {
+            "supplier": "AMANN & S\u00d6HNE GMBH & CO KG",
+            "description": "AMANN sewing and embroidery threads",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_AMANN_Polyamide_2021_283_200_c1_c_t_smart_scale.jpg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/amann-lifecycle-tn-technological-cycle-amann-shne-gmbh-co-kg"
+        },
+        "Apparel for Biological Cycle by Cotton Blossom": {
+            "supplier": "COTTON BLOSSOM INDIA PRIVATE LIMITED",
+            "description": "Cotton apparel products for men, women and children in several color variations. Apparel includes tops,\u2026",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_WEB_Tshirt_CottonBlossom_2017_283_200_c1_c_t_smart_scale.jpeg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/tshirts"
+        },
+        "Apparel for Biological Cycle by Pratibha": {
+            "supplier": "PRATIBHA SYNTEX LTD.",
+            "description": "Cotton apparel products including bottoms, dresses, jackets, and tops, in a range of color variations.",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_Pratibha_Apparel_for_Biological_Cycle_2021_283_197_c1_c_t_smart_scale.jpeg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/Apparel_for_Biological_Cycle_by_Pratibha"
+        },
+        "Apparel for Future By Tasniah": {
+            "supplier": "TASNIAH FABRICS LTD.",
+            "description": "Men\u2019s, Women\u2019s, and Children's knit garments with Cotton, Cotton & Elastane, Cotton with Viscose blend\u2026",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_WEB_Tasniah_Fabrics_Ltd._Apparel_for_Future_By_Tasniah_283_200_c1_c_t_smart_scale.jpeg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/apparel-for-future-by-tasniah-tasniah-fabrics-ltd"
+        },
+        "Apparel for Goodness": {
+            "supplier": "PACIFIC JEANS LTD.",
+            "description": "Apparel for Goodness",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_WEB_Apparel_for_goodness_Pacific_Jeans_2018_(1)_283_200_c1_c_t_smart_scale.jpg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/apparel-for-goodness-by-pacific-jeans-pacific-jeans-ltd"
+        },
+        "Apparel for Recyclability by Flamingo Fashions Ltd": {
+            "supplier": "FLAMINGO FASHIONS LTD",
+            "description": "Apparel for men, women, kids, and toddlers.",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_Flamingo_Fashions_Apparel_for_recyclability_2021_cropped_283_200_c1_c_t_smart_scale.png",
+            "Link": "https://www.c2ccertified.org/products/scorecard/apparel-for-recyclability-by-flamingo-fashions-ltd-flamingo-fashions-ltd"
+        },
+        "AQUA WEFT Denim Fabrics": {
+            "supplier": "HANTEX",
+            "description": "Denim fabrics.",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_HANTEX_AQUA_WEFT_Denim_Fabric_2021_283_200_c1_c_t_smart_scale.jpeg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/hantex-denim-fabrics-hantex"
+        },
+        "Arth Collections": {
+            "supplier": "SHAHI EXPORTS PRIVATE LIMITED",
+            "description": "Dresses and blouses made of 100% cotton at units fully owned by Shahi.",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_WEB_Arth_Collections_Shahi_Exports_2021_283_200_c1_c_t_smart_scale.jpeg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/arth-collections-shahi-exports-private-limited"
+        },
+        "Aureola Denim Garments": {
+            "supplier": "ARTISTIC MILLINERS PVT LTD.",
+            "description": "Jeans made from 100% organic cotton and crystal clear 3.0 dyeing technology.",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_Artistic_Milliners_Aureola_2021_283_200_c1_c_t_smart_scale.jpg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/aureola-artistic-milliners-pvt-ltd"
+        },
+        "Bananatex\u00ae fabric": {
+            "supplier": "BANANATEX AG",
+            "description": "Bananatex\u00ae is made from banana plants and cultivated in the Philippines within a natural ecosystem of\u2026",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_WEB_BANANATEX-FABRIC_BananatexAG_2021_283_200_c1_c_t_smart_scale.jpeg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/bananatex-bananatex-ag"
+        },
+        "Biological Cycles / Legwear, seamless, tight,\u2026": {
+            "supplier": "WOLFORD AG",
+            "description": "Wolford is very proud to present tights and lingerie designed to be safe for biological cycles and/or\u2026",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_Wolford_Undergarments_bio-cycle_2018_283_200_c1_c_t_smart_scale.JPG",
+            "Link": "https://www.c2ccertified.org/products/scorecard/biological-cycles-legwear-seamless-tight-hosiery-lingerie-bodysuits-etc-wol"
+        },
+        "BioPuff\u00ae": {
+            "supplier": "SALTYCO LTD.",
+            "description": "BioPuff\u00ae is a 100% plant-based fibre fill material for insulating clothing. It is an alternative to animal\u2026",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_WEB_Saltyco_BioPuff_2022_283_200_c1_c_t_smart_scale.jpeg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/biopuff-saltyco-ltd"
+        },
+        "C&A designed to be recycled Flamingo garments": {
+            "supplier": "C&A AG",
+            "description": "C&A designed to be recycled Flamingo circular knit apparel are available for men, women, kids, and toddlers.",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_CAdesigned_to_be_recycled_Flamingo_2022_283_200_c1_c_t_smart_scale.png",
+            "Link": "https://www.c2ccertified.org/products/scorecard/ca-designed-to-be-recycled-flamingo-garments-ca-ag"
+        },
+        "C&A designed to be recycled Pacific Jeans\u2026": {
+            "supplier": "C&A AG",
+            "description": "C&A designed to be recycled jeans at Gold level are available for both men and women",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_WEB_Apparel_for_goodness_Pacific_Jeans_2018_(1)_283_200_c1_c_t_smart_scale.jpg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/ca-designed-to-be-recycled-pacific-jeans-garments-gold-ca-ag"
+        },
+        "C&A designed to be recycled Shahi Exports garments": {
+            "supplier": "C&A AG",
+            "description": "C&A designed to be recycled woven products at Gold level are available for Kids, Men and Women.",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_WEB_CA_designed_to_be_recycled_Shahi_Exports_garments_CA_2021_283_200_c1_c_t_smart_scale.jpeg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/ca-designed-to-be-recycled-shahi-exports-garments-ca-ag"
+        },
+        "C&A designed to be recycled Soorty Enterprises\u2026": {
+            "supplier": "C&A AG",
+            "description": "C&A designed to be recycled jeans at Gold level are available for both men and women",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_Soorty_CA_Designed_to_be_recycled_Soorty_garment_2022_283_200_c1_c_t_smart_scale.jpg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/ca-designed-to-be-recycled-soorty-enterprises-garment-ca-ag"
+        },
+        "Candiani Denim Fabrics": {
+            "supplier": "CANDIANI S.P.A.",
+            "description": "Italian denim fabrics for apparel.",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/logos/IMG_WEB_CandianiSpA_CandianiDenimFabrics_263_200_c1_c_t_smart_scale.jpeg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/candiani-denim-fabrics-candiani-spa"
+        },
+        "Ciclos - C&A Brazil designed to be recycled\u2026": {
+            "supplier": "C&A MODAS SA",
+            "description": "C&A designed to be recycled garments for men, women and kids in different colors, made in Brazil.",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/Ciclos02_VAM_C2C_283_200_c1_c_t_smart_scale.PNG",
+            "Link": "https://www.c2ccertified.org/products/scorecard/ciclos-ca-brazil-designed-to-be-recycled-cotton-star-garment-ca-modas-sa"
+        },
+        "Ciclos - C&A designed to be recycled Emphasis\u2026": {
+            "supplier": "C&A MODAS SA",
+            "description": "C&A designed to be recycled denim and/or twill garments for men, women and kids, in different colors, made in\u2026",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/Ciclos01_VAM_C2C_283_200_c1_c_t_smart_scale.PNG",
+            "Link": "https://www.c2ccertified.org/products/scorecard/ciclos-ca-designed-to-be-recycled-emphasis-garment-ca-modas-sa"
+        },
+        "Circular Clothing": {
+            "supplier": "THE BLUE SUIT GMBH FOR CIRCULAR CLOTHING GENOSSENSCHAFT",
+            "description": "Children's, women's, and men's wear. Denim, knits.",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://www.c2ccertified.org/img/graphics/temp_item.jpg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/circular-clothing-the-blue-suit-gmbh-for-circular-clothing-genossenschaft"
+        },
+        "Circular Fabrics - Gold": {
+            "supplier": "E. SCHELLENBERG TEXTILDRUCK AG - GREUTER JERSEY",
+            "description": "Swiss fabric made for nightwear, underwear, loungewear and bed-linen.",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/logos/IMG_WEB_ESchellenberg_TextildruckAG_Circular_FabricsGold_2022_283_200_c1_c_t_smart_scale.jpg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/circular-fabrics-e-schellenberg-textildruck-ag-greuter-jersey"
+        },
+        "Circular Knit Fabrics Future I": {
+            "supplier": "SANKO TEKST\u0130L \u0130\u015eL.SAN.VE T\u0130C.A.\u015e",
+            "description": "Knit fabrics that are fully vertically integrated, from spinning, knitting, dyeing and finishing and driven by\u2026",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_WEB_Circular_Knitted_Sanko_Tekstil_2021_283_200_c1_c_t_smart_scale.jpeg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/sanko-circular-knit-fabrics-future-i-sanko-tekstl-lsanve-tca"
+        },
+        "Climatex\u00ae Lifeguard FR\u2122": {
+            "supplier": "CLIMATEX AG",
+            "description": "Applications for the Lifeguard\u2122 fabric collection include: upholstery fabrics in offices and at home,\u2026",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_WEB_Bild_Climatex_Lifeguard_FR_Vivo_Image_Climatex_2019_283_200_c1_c_t_smart_scale.jpg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/climatex_lifecycle_and_lifeguard_fr"
+        },
+        "Denim and/or twill color garments for all people by\u2026": {
+            "supplier": "EMPHASIS IND\u00daSTRIA E COM\u00c9RCIO VOTORANTIM LTDA",
+            "description": "Emphasis produced garments of denim and/or twill, available for men, women and kids.",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_EmphasisBrazil_Denim_2021_283_200_c1_c_t_smart_scale.jpg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/denim-andor-twill-color-garments-for-all-people-by-emphasis-made-in-brazil-emphasis-indstria-e-comrcio-votorantim-ltda"
+        },
+        "Designed to be cherished t-shirt": {
+            "supplier": "STICHTING FASHION FOR GOOD",
+            "description": "A T-shirt made of 100% organic cotton, using renewable energy and only safe chemicals and dyes. A T-shirt\u2026",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_WEB_Fashion_For_Good_Designed_to_be_Cherished_Tshirt_Presstigieux_2020_283_200_c1_c_t_smart_scale.jpg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/designed-to-be-cherished-t-shirt-stichting-fashion-for-good"
+        },
+        "DETTO FATTO denim collection": {
+            "supplier": "SCHMIDT GROUP",
+            "description": "Fashion Garments by Schmidt Group: Denim products for men and women, manufactured with processes, fibres,\u2026",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/logos/IMG_WEB_Schmidt_Group_DETTO_FATTO_denim_collection_283_200_c1_c_t_smart_scale.jpg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/detto-fatto-denim-collection-schmidt-group"
+        },
+        "DETTO FATTO organic cotton collection": {
+            "supplier": "SCHMIDT GROUP",
+            "description": "Fashion Garments by Schmidt Group: circular knitwear for men and women, manufactured with processes, fibres,\u2026",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_Schmidt_DettoFatto_2021_283_200_c1_c_t_smart_scale.jpeg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/detto-fatto-fashion-apparel-for-biological-cycle-schmidt-group"
+        },
+        "Dexterous Range": {
+            "supplier": "US DENIM MILLS (PVT.) LTD",
+            "description": "An exclusive denim fabric range made with organic cotton and designed by US Denim specially to develop a\u2026",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_WEB_US_Denim_Dexterous_Range_2021_283_200_c1_c_t_smart_scale.jpeg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/dexterous-range-us-denim-mills-pvt-ltd"
+        },
+        "Disney\u00a9 Family Collection": {
+            "supplier": "TEX-ASS TEXTILVERTRIEBS GMBH",
+            "description": "Disney\u00a9 Family Collection designed by Tex-Ass Textilvertriebs GmbH consists of t-shirts, hoodies, pajamas,\u2026",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_WEB_Disney_Bio-CottonDye_Auswahl_TexassGmbH_2021_283_200_c1_c_t_smart_scale.jpeg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/disney-biodegradable-collection-texass-textilvertriebs-gmbh"
+        },
+        "Earth 5.0": {
+            "supplier": "GENESIS FASHIONS LIMITED",
+            "description": "A collection of denim garments including jeans, denim shorts & jackets designed for both men & women.",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_Genesis_Fashion_Earth_5.0_283_200_c1_c_t_smart_scale.jpeg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/earth-50-genesis-fashions-limited"
+        },
+        "Earth Day T-shirt": {
+            "supplier": "OVS SPA",
+            "description": "Cotton t-shirts for women, men and children in several color variations.",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/OVS_earthdaytshirt_2022_283_200_c1_c_t_smart_scale.jpeg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/earth-day-tshirt-ovs-spa"
+        },
+        "Earthmatics": {
+            "supplier": "ARTISTIC FABRIC AND GARMENT INDUSTRIES (PVT.) LTD. (AFM-1)",
+            "description": "Indigo dyed denim fabric made of 100% cotton and its blend with pre-consumer waste cotton and elastane.",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_WEB_fabric_picture_eartmatics_Artistic_Fabric_Mills_2019_283_179_c1_c_t_smart_scale.jpg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/earthmatics-artistic-fabric-and-garment-industries-pvt-ltd-afm1"
+        },
+        "Fashion for Future": {
+            "supplier": "BRANDS FASHION GMBH",
+            "description": "The collection consists of t-shirts, longsleeves, sweat wear and polo shirts in different colors and with or\u2026",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_Brands_Fashion_Fashion_for_Future_2022_283_200_c1_c_t_smart_scale.jpg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/textiles-and-apparel-brands-fashion-gmbh"
+        },
+        "Fashion for Future apparel": {
+            "supplier": "SEA SHEPHERD DEUTSCHLAND GGMBH",
+            "description": "Fashion for Future Collection including T-shirt, long sleeve shirt, sweat short, and hoody",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_SeaShepherd_FashionForFutureApparel_2021_283_200_c1_c_t_smart_scale.jpg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/fashion-for-future-apparel-sea-shepherd-deutschland-ggmbh"
+        },
+        "Flags and Banners": {
+            "supplier": "FAHNEN-GAERTNER GMBH",
+            "description": "Flags and banners.",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_WEB_Fahnen_Gaertner_Flag_an_Banners_FaehnenGaertnerGmbH_2021_283_200_c1_c_t_smart_scale.jpeg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/printed-flags-banners-textile-advertisement-fahnengaertner-gmbh"
+        },
+        "Flawa Insoles": {
+            "supplier": "FLAWA CONSUMER GMBH",
+            "description": "FLAWA Fresh Soles are designed to be ultra-thin, provide superior comfort for feet.",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_WEB_Flawa_Insoles_FlawaConsumerGmbH_2020_283_200_c1_c_t_smart_scale.jpg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/flawa-insoles-flawa-consumer-gmbh"
+        },
+        "G-Star RAW Denim Product": {
+            "supplier": "G-STAR RAW C.V.",
+            "description": "G-Star RAW Denim Product represents a range of denim styles. All styles have been produced at Saitex in\u2026",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_G-Star_RAW_DenimProduct_2020_283_200_c1_c_t_smart_scale.jpg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/gstar-raw-denim-product-gstar-raw-cv"
+        },
+        "G-Star RAW Product (T-Shirt)": {
+            "supplier": "G-STAR RAW C.V.",
+            "description": "G-Star RAW Product (T-Shirt) represents a range of t-shirt inspired styles produced at Pratibha Syntex LTD.",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_G-Star_RAW_T-shirt_2020_orig_283_200_c1_c_t_smart_scale.jpg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/gstar-raw-product-tshirt-gstar-raw-cv"
+        },
+        "Green Mystery": {
+            "supplier": "RAJBY TEXTILES PVT LTD",
+            "description": "Range of denim fabrics made with 100% Organic Cotton and Hemp with Elastane. Indigo dyed with black sulfur\u2026",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_WEB_GreenMystery_Rajby_2019_283_200_c1_c_t_smart_scale.jpg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/greenmystery-rajby-textiles-pvt-ltd"
+        },
+        "Grow Green": {
+            "supplier": "NZ DENIM LIMITED",
+            "description": "A collection of denim fabrics.",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_WEB_NZ_Denim_Limited_Grow_Green_283_200_c1_c_t_smart_scale.jpg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/grow-green-nz-denim-limited"
+        },
+        "INDIJEANOUS GARMENTS": {
+            "supplier": "DENIM CLOTHING COMPANY",
+            "description": "Denim Garments, like pants, shorts, skirts, dungarees and jackets for men, women, boys, girls and kids are\u2026",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_WEB_INDIJEANOUS_GARMENTS_DCC_V2_2021_283_200_c1_c_t_smart_scale.jpeg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/indijeanous-garments-denim-clothing-company"
+        },
+        "Jack & Jones Jeans": {
+            "supplier": "BESTSELLER AS",
+            "description": "Jeans made with a twill weave from 98% organic cotton and 2% recycled degradable elastane using crystal clear\u2026",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_Bestseller_Jeans_2022_283_200_c1_c_t_smart_scale.png",
+            "Link": "https://www.c2ccertified.org/products/scorecard/jeans-bestseller-as"
+        },
+        "Knit apparel made in Brazil by Cotton Star": {
+            "supplier": "COTTON STAR CONFECCOES LTDA",
+            "description": "Knit apparel made in Brazil by Cotton Star, including but not limited to T-Shirts for Men, Kids and ladies,\u2026",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://www.c2ccertified.org/img/graphics/temp_item.jpg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/knit-apparel-made-in-brazil-by-cotton-star-cotton-star-confeccoes-ltda"
+        },
+        "Knitted Apparel Products": {
+            "supplier": "H & M HENNES & MAURITZ GBC AB",
+            "description": "Kids and Babies Apparel in jersey fabric including: T \u2013 Shirts, Body Suits (single piece/2 piece), Bibs,\u2026",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://www.c2ccertified.org/img/graphics/temp_item.jpg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/knitted-apparel-products-h-m-hennes-mauritz-gbc-ab"
+        },
+        "Knitwear Garment": {
+            "supplier": "GHIOLDI SRL",
+            "description": "Garments made in silk and fine wool, including yarns for fabric and accessories.",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_Ghioldi_KnitwearGarment_2022_266_200_c1_c_t_smart_scale.png",
+            "Link": "https://www.c2ccertified.org/products/scorecard/knitwear-garment-ghioldi-srl"
+        },
+        "LEE \u00ae \u2013 For a world that works \u2122 \u2013 Aureola": {
+            "supplier": "LEEWRANGLER BELGIUM SERVICES BV",
+            "description": "Classic five-pocket jeans crafted using a premium 12oz (after wash) selvedge denim with comfort stretch\u2026",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_LeeWrangler_Aureola_2021_283_200_c1_c_t_smart_scale.jpg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/men-and-womans-apparel-aureola-leewrangler-belgium-services-bv"
+        },
+        "Napapijri Circular Series": {
+            "supplier": "VF INTERNATIONAL SAGL, NAPAPIJRI",
+            "description": "Napapijri Circular Series are safe, fully circular made from a mono-material composition. Fillings and trims\u2026",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMF_WEB_Circular_Rainforest_VF_Napapijri_2020_283_200_c1_c_t_smart_scale.png",
+            "Link": "https://www.c2ccertified.org/products/scorecard/vf-napapijri-infiniti-tn-product-group-vf-international-sagl-napapijri"
+        },
+        "Naturalis Fibra": {
+            "supplier": "BOTTO GIUSEPPE E FIGLI SPA",
+            "description": "A natural wool yarn in the NATURALIS FIBRA range of yarns.",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_WEB_Slowool__Slowool_Light_yarns_BottoGiuseppe_2017_283_200_c1_c_t_smart_scale.jpg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/naturalis-fibra"
+        },
+        "OceanSafe x Yunus Textile Mills \u2013 Home Textiles": {
+            "supplier": "OCEANSAFE AG",
+            "description": "The Home Textiles are designed to be biodegradable and are available in a variety of styles, sizes and colors.\u2026",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_OceanSafe_YunusXOceanSafe_2022jpg_283_200_c1_c_t_smart_scale.jpg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/oceansafe-fabrics-yunus-textile-mills-limited"
+        },
+        "OceanSafe\u2122 - Fabrics": {
+            "supplier": "OCEANSAFE AG",
+            "description": "OceanSafe\u2122 - Fabrics including Curtains, Draperies, Bedspreads, Cushion Covers, Upholstery Fabrics, Table\u2026",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/logos/OceanSafe_synthetic_fibres_03_highres_sm_283_200_c1_c_t_smart_scale.jpg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/ocean-safe-fabrics-oceansafe-ag"
+        },
+        "Organic Cotton Denim Fabrics": {
+            "supplier": "SIDDIQSONS LIMITED",
+            "description": "Organic Cotton Denim Fabrics: Denim fabrics, made of 100% Organic Cotton or Organic Cotton with Elastane BN\u2026",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_WEB_Denim_fabric_Siddiqsons_Limited_2021_283_200_c1_c_t_smart_scale.jpg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/siddiqsons-denim-fabrics-siddiqsons-limited"
+        },
+        "Planet-Friendly Sportswear": {
+            "supplier": "RUNAMICS GMBH",
+            "description": "Planet-Friendly Sportswear: This runamics collection includes printed cotton sweatwear, tees, and a wristband\u2026",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_Runamics_Fashion_for_Future_Apparel_2021_283_200_c1_c_t_smart_scale.png",
+            "Link": "https://www.c2ccertified.org/products/scorecard/fashion-for-future-apparel-runamics-gmbh"
+        },
+        "PONT NEUF RWS 2/45.000": {
+            "supplier": "BOTTO GIUSEPPE E FIGLI SPA",
+            "description": "PONT NEUF 2/45.000 IS A YARN DESIGNED FOR DURABILITY",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://www.c2ccertified.org/img/graphics/temp_item.jpg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/pont-neuf-rws-245000-botto-giuseppe-e-figli-spa"
+        },
+        "Pure D": {
+            "supplier": "SOORTY ENTERPRISES PVT. LTD",
+            "description": "Denim fabric designed and made using techniques such as zero water waste indigo rope dyeing. Made with\u2026",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_WEB_Pure_D_Soorty_Enterprises_2018_283_200_c1_c_t_smart_scale.jpg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/pure-d-soorty-enterprises-pvt.-ltd.-denim-unit-08"
+        },
+        "Redefine Denim": {
+            "supplier": "ARTISTIC FABRIC & GARMENT INDUSTRIES (PVT.) LTD. (AGI DENIM)",
+            "description": "Denim fabric made using Double Zero Technology dye methods. Fabrics are woven with fiber blends including\u2026",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_WEB_RedefineDenim_AGI_Denim_2021_283_200_c1_c_t_smart_scale.jpg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/redefine-denim-artistic-fabric-garment-industries-pvt-ltd-agi-denim"
+        },
+        "Sewing Yarn Natura Cell and Sewing Yarn Natura\u2026": {
+            "supplier": "JOHANN MUELLER AG",
+            "description": "Sewing Yarn Natura Cell and Sewing Yarn Natura vinatur\u00ae are designed for sewing textiles and leather,\u2026",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_WEB_Johann_Mueller_Natura_Herov2_Large_283_200_c1_c_t_smart_scale.jpg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/sewing-yarn-natura-johann-mueller-ag"
+        },
+        "Slow Silk yarns": {
+            "supplier": "BOTTO GIUSEPPE E FIGLI SPA",
+            "description": "A natural silk yarn in the NATURALIS FIBRA range of yarns.",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_WEB_SlowSilk_Nm2x2_BottoGiuseppe_2020_283_200_c1_c_t_smart_scale.jpg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/slow-silk-yarns-botto-giuseppe-e-figli-s.p.-a"
+        },
+        "Slowool Fabrics": {
+            "supplier": "BOTTO GIUSEPPE E FIGLI SPA",
+            "description": "Fabrics made with superfine wool.",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_WEB_BOTTO_GIUSEPPE_E_FIGLI_SPA_Slowool_Fabrics_283_200_c1_c_t_smart_scale.jpeg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/slowool-fabrics-botto-giuseppe-e-figli-spa"
+        },
+        "Smart Loop": {
+            "supplier": "SOORTY ENTERPRISES PVT. LTD",
+            "description": "The SMART LOOP line includes a selection of fabrics ranging from light to heavy weight in both stretch and\u2026",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_Soorty_Garment_Smart_Loop_2019_283_200_c1_c_t_smart_scale.jpg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/smart-loop-soorty-enterprises-pvt-ltd"
+        },
+        "Socklab": {
+            "supplier": "EURO SOX PLUS BV",
+            "description": "Our Socklab Cradle to Cradle Certified\u2122 Gold socks are made entirely from sustainable materials, processed\u2026",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_WEB_Socklab_EuroSox_2020_283_200_c1_c_t_smart_scale.jpg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/new-socks-program-eurosox-plus-bv"
+        },
+        "Socks RE-GEN": {
+            "supplier": "INTERLOOP LIMITED",
+            "description": "The product SOCKS RE-GEN by Interloop Limited, is a sock collection made with sustainable materials and\u2026",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_Interloop_Socks_REGEN_2021v2_283_200_c1_c_t_smart_scale.jpeg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/socks-regen-interloop-limited"
+        },
+        "Stevie Fabric Collection": {
+            "supplier": "ARTISTIC DENIM MILLS LTD",
+            "description": "Denim fabric designed and produced with cotton and blend of cotton and elastane, dyed with indigo and sulphur.\u2026",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_WEB_Steviefabric_ADM_2021_283_200_c1_c_t_smart_scale.jpeg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/stevie-fabric-collection-artistic-denim-mills-ltd"
+        },
+        "Technical Cycles / Legwear, seamless, tight,\u2026": {
+            "supplier": "WOLFORD AG",
+            "description": "Tights and lingerie designed to be safe for technical cycles.",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_WEB_Aurora_70_Wolford_AG_2019_283_200_c1_c_t_smart_scale.jpg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/technical-cycles-legwear-seamless-tight-hosiery-lingerie-bodysuits-etc-wolf"
+        },
+        "Tentree apparel designed for Biological Cycle by\u2026": {
+            "supplier": "TENTREE INTERNATIONAL INC.",
+            "description": "Men and Women apparel made of cotton or cellulose-based fibres in colour and print variations as included in\u2026",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_Tentree_SS20_C2C_Products_at_Pratibha_2019-07_283_200_c1_c_t_smart_scale.JPG",
+            "Link": "https://www.c2ccertified.org/products/scorecard/tentree-apparel-designed-for-biological-cycle-by-pratibha-syntex-tentree-international-inc"
+        },
+        "Toolbox trimmings vinatur\u00ae for workwear, apparel": {
+            "supplier": "INOGEMA GMBH",
+            "description": "The product is an integrated toolkit of accessories to be used in the Work Wear and Apparel industry (e.g.\u2026",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_Toolbox_aktuell_Inogema_2021_283_200_c1_c_t_smart_scale.jpg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/toolbox-trimmings-vinatur-for-workwear-apparel-inogema-gmbh"
+        },
+        "Trigema Organic Cotton Apparel": {
+            "supplier": "TRIGEMA INH. W. GRUPP E.K.",
+            "description": "Trigema Organic Cotton Apparel is a fashion collection of cotton sportswear, streetwear, and underwear.",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_WEB_Organic_Cotton_Apparel_Trigema_2021_283_200_c1_c_t_smart_scale.jpg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/trigema_eco-effective_cotton_apparel"
+        },
+        "vinatur\u00ae organic cotton workwear apparel fabrics": {
+            "supplier": "INOGEMA GMBH",
+            "description": "The vinatur\u00ae organic cotton workwear apparel fabrics consist of a blend of organic cotton made of synthetic\u2026",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IIMG_WEB_ReWorx_Textiles_Lauffenmuehle_2016_283_200_c1_c_t_smart_scale.png",
+            "Link": "https://www.c2ccertified.org/products/scorecard/vinatur-yarns-and-workwear-apparel-fabrics-inogema-gmbh"
+        },
+        "wet-green\u00ae OBE": {
+            "supplier": "WET-GREEN GMBH",
+            "description": "The wet-green\u00ae OBE tanning agent, used to manufacture Olivenleder\u00ae, is a plant-based concentrate produced\u2026",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_WEB_Wet_Green_Hero_Large_283_200_c1_c_t_smart_scale.jpg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/wet-green_obe"
+        },
+        "Workwear Apparel made from vinatur\u00ae Textiles": {
+            "supplier": "ALFREDO GRASSI S.P.A.",
+            "description": "Grassi offers a yarn and textile concept together with a system-integrated toolkit of accessories (e.g. sewing\u2026",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_WEB_Alfredo_Grassi_Workwear_283_200_c1_c_t_smart_scale.jpg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/work-wear-apparel-made-from-reworx-textiles-alfredo-grassi-s.p.a"
+        },
+        "Workwear, apparel made from organic cotton and\u2026": {
+            "supplier": "INOGEMA GMBH",
+            "description": "Work Wear, Apparel made from cotton and vinatur are designed to offer a climate control function, be suitable\u2026",
+            "Sustainability Rating": "Gold V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/Laufenmuelle_BP_Reworx_Foto_10-13_283_200_c1_c_t_smart_scale.png",
+            "Link": "https://www.c2ccertified.org/products/scorecard/workwear-apparel-made-from-organic-cotton-and-vinatur-inogema-gmbh"
+        },
+        "Bonprix organic cotton collection": {
+            "supplier": "BONPRIX HANDELSGESELLSCHAFT GMBH",
+            "description": "This collection is made from cotton and consists of jersey garments for ladies, kids and men. The collection\u2026",
+            "Sustainability Rating": "Silver V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_WEB_Bonprix_organic_cotton_T-Shirt_collection_bonprix_Styles_2021_283_200_c1_c_t_smart_scale.jpg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/bonprix-organic-cotton-tshirt-collection-bonprix-handelsgesellschaft-mbh"
+        },
+        "CALIDA": {
+            "supplier": "CALIDA AG",
+            "description": "Loungewear, underwear, pajamas and t-shirts for Men, Women, Girls, Boys and Children; hygienic masks",
+            "Sustainability Rating": "Silver V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_Calida_Viktor_Rolf_2022_283_200_c1_c_t_smart_scale.jpg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/calida-i-love-nature-calida-ag"
+        },
+        "Circular Fabrics - Silver": {
+            "supplier": "E. SCHELLENBERG TEXTILDRUCK AG - GREUTER JERSEY",
+            "description": "Swiss fabric made for nightwear, underwear, loungewear and bed-linen using Tencel fibre",
+            "Sustainability Rating": "Silver V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/logos/IMG_WEB_ESchellenbergTextildruckAG_Circular_FabricsSilver_283_200_c1_c_t_smart_scale.jpg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/circular-fabrics-silver-e-schellenberg-textildruck-ag-greuter-jersey"
+        },
+        "Circular Knit Fabrics Future II": {
+            "supplier": "SANKO TEKST\u0130L \u0130\u015eL.SAN.VE T\u0130C.A.\u015e",
+            "description": "Knit fabrics that are fully vertically integrated, from spinning, knitting, dyeing and finishing, and driven\u2026",
+            "Sustainability Rating": "Silver V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_WEB_Sanko_Tekstil_Photo_Silver_SankoTextiles_283_200_c1_c_t_smart_scale.jpg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/sanko-circular-knit-fabrics-future-ii-sanko-tekstl-lsanve-tca"
+        },
+        "Climatex\u00ae Dualcycle\u2122": {
+            "supplier": "CLIMATEX AG",
+            "description": "Applications for the Dualcycle\u2122 fabric collection include: upholstery fabrics in offices and at home,\u2026",
+            "Sustainability Rating": "Silver V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_WEB_Natura_Image_Climatex_Dualcycle_ClimatexAG_2019_283_200_c1_c_t_smart_scale.jpg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/climatex_dualcycle"
+        },
+        "DETTO FATTO viscose collection": {
+            "supplier": "SCHMIDT GROUP",
+            "description": "Fashion garments by Schmidt Group: Knitwear for men and women manufactured with processes, fibres, components\u2026",
+            "Sustainability Rating": "Silver V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_WEB_Schmidt_Detto_Fatto_viscose_collection_2021_283_200_c1_c_t_smart_scale.jpg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/detto-fatto-viscose-jersey-collection-schmidt-group"
+        },
+        "Knitted Textile Collection": {
+            "supplier": "LOOP - FROM NATURE TO NATURE - BY PANDINAVIA AG",
+            "description": "Knitted wear for corporate fashion consisting of t-shirts, poloshirts and sweatshirts in different colors,\u2026",
+            "Sustainability Rating": "Silver V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/logos/IMG_loop_Knitted_Textile_Collection_2021_283_200_c1_c_t_smart_scale.jpg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/knitted-textile-collection-loop-from-nature-to-nature-by-pandinavia-ag"
+        },
+        "Running Shorts": {
+            "supplier": "RUNAMICS GMBH",
+            "description": "Medium-short running shorts. Smartphone and key pocket included. \u2022 Cord in the elastic waistband for\u2026",
+            "Sustainability Rating": "Silver V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_WEB_RunningShorts_runamics_2021_283_200_c1_c_t_smart_scale.jpg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/runamics-sport-shorts-runamics-gmbh"
+        },
+        "vinatur\u00ae Tencel\u2122 workwear apparel fabrics": {
+            "supplier": "INOGEMA GMBH",
+            "description": "vinatur\u00ae / Tencel\u00ae yarn and fabrics are designed to be used for work wear as well as for other high\u2026",
+            "Sustainability Rating": "Silver V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/Lauffenmuelle_infinio_and_reworx_283_200_c1_c_t_smart_scale.png",
+            "Link": "https://www.c2ccertified.org/products/scorecard/vinatur-tencel-yarn-and-fabrics-inogema-gmbh"
+        },
+        "Wool Top": {
+            "supplier": "ENGRAW",
+            "description": "Washed and combed wool tops",
+            "Sustainability Rating": "Silver V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_Engraw_Wool_Top_2022_283_200_c1_c_t_smart_scale.jpeg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/wool-top-engraw"
+        },
+        "Work Wear, Apparel made from vinatur\u00ae Textiles": {
+            "supplier": "KARL DIECKHOFF GMBH & CO KG",
+            "description": "Dieckhoff's Work Wear, Apparel made from vinatur\u00ae Textiles",
+            "Sustainability Rating": "Silver V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_WEB_Dieckhoff_Work_Wear_283_200_c1_c_t_smart_scale.jpg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/work-wear-apparel-made-from-reworx-textiles-karl-dieckhoff-gmbh-co-kg"
+        },
+        "Apparel by Pacific Jeans": {
+            "supplier": "PACIFIC JEANS LTD.",
+            "description": "Casual Jeans for Ladies & Men.",
+            "Sustainability Rating": "Bronze V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_WEB_Apparel_for_goodness_Pacific_Jeans_2018_(1)_283_200_c1_c_t_smart_scale.jpg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/apparel-by-pacific-jeans-pacific-jeans-ltd"
+        },
+        "Babies Wear & Home and Sleepwear for Women, Men\u2026": {
+            "supplier": "LIDL ASIA PTE. LIMITED",
+            "description": "Pyjamas for men, women and children; T-shirts for kids; Baby jogger, pants and pyjama",
+            "Sustainability Rating": "Bronze V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_Lidl_PajamasJoggers_2022_283_200_c1_c_t_smart_scale.png",
+            "Link": "https://www.c2ccertified.org/products/scorecard/home-and-sleepwear-for-women-men-and-kids-lidl-asia-pte-limited"
+        },
+        "Corporate Fashion: T-Shirts & Poloshirts": {
+            "supplier": "HAKRO GMBH",
+            "description": "- Classic ladies' and men's T-shirts, V-shirts and long sleeves with neck cuffs. Made of medium-weight single\u2026",
+            "Sustainability Rating": "Bronze V3.1",
+            "Image": "https:https://cdn.c2ccertified.org/images/made/images/remote/https_cdn.c2ccertified.org/images/products/IMG_HAKRO_T-shirts__Poloshirts_2022_283_200_c1_c_t_smart_scale.jpeg",
+            "Link": "https://www.c2ccertified.org/products/scorecard/corporate-fashion-tshirts-poloshirts-hakro-gmbh"
+        }
+    },
+
+    "Cirplus": {
+        "RECYCLATE PE-LD POST-INDUSTRIAL GRANULES-85": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Turkey",
+            "Source": "Post-Industrial",
+            "Amount": "200 tons / Month",
+            "Price per tons": "880 \u20ac / t",
+            "Recycled content": "2 - 98 %",
+            "Image": "https://cdn.cirplus.com/platform/IWmG2pxyT9dJOgwuNSD9O/IWmG2pxyT9dJOgwuNSD9O.thumbnail.jpeg",
+            "Link": "https://www.cirplus.com/app/offer/ldpe-granules-post-industrial-com1efAKi4vAFrp5ARo71m"
+        },
+        "RECYCLATE PE-LD POST-INDUSTRIAL GRANULES-100": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Turkey",
+            "Source": "Post-Industrial",
+            "Amount": "200 tons / Month",
+            "Price per tons": "1000 \u20ac / t",
+            "Recycled content": "2 - 98 %",
+            "Image": "https://cdn.cirplus.com/platform/BktJJ6blnaK0Rh-4GwWXJ/BktJJ6blnaK0Rh-4GwWXJ.thumbnail.jpeg",
+            "Link": "https://www.cirplus.com/app/offer/ldpe-granules-post-industrial-ba43B8BVrn7BdpNkgQYHzf"
+        },
+        "RECYCLATE PET POST-CONSUMER REGRIND-115": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "United Kingdom",
+            "Source": "Post-Consumer",
+            "Amount": "1000 tons / Month",
+            "Price per tons": "On request",
+            "Recycled content": "90 - 100 %",
+            "Image": "https://cdn.cirplus.com/platform/3r-AqbFL-3c_NIJ2fW2eI/3r-AqbFL-3c_NIJ2fW2eI.thumbnail.png",
+            "Link": "https://www.cirplus.com/app/offer/pet-regrind-post-consumer-enu87wwN6z3pmnu1t3wZ8x"
+        },
+        "RECYCLATE PS POST-INDUSTRIAL LUMPS-130": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Spain",
+            "Source": "Post-Industrial",
+            "Amount": "10000 tons / Year",
+            "Price per tons": "700 \u20ac / t",
+            "Recycled content": "0 - 100 %",
+            "Image": "https://cdn.cirplus.com/platform/bNDAcZ-8oxXFNAHSYW2Xk/bNDAcZ-8oxXFNAHSYW2Xk.thumbnail.jpeg",
+            "Link": "https://www.cirplus.com/app/offer/ps-lumps-post-industrial-hqqXpoYrzUFY4weuPQr9c4"
+        },
+        "RECYCLATE PS POST-CONSUMER TRANSPARENT GRANULES-145": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Germany",
+            "Source": "Post-Consumer",
+            "Amount": "100 tons / Week",
+            "Price per tons": "On request",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/N_YG99MkqY-l47tu58dSP/N_YG99MkqY-l47tu58dSP.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/ps-granules-transparent-post-consumer-hWpLC74tnHEB2ZjkUmv4si"
+        },
+        "RECYCLATE PA POST-INDUSTRIAL BALES-160": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "India",
+            "Source": "Post-Industrial",
+            "Amount": "40 tons / Month",
+            "Price per tons": "2400 $ / t",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/LpPrv1TrAaxe3mBdRnktR/LpPrv1TrAaxe3mBdRnktR.thumbnail.jpeg",
+            "Link": "https://www.cirplus.com/app/offer/pa-bales-post-industrial-bdebeG4G5JMarWHrmmHtBN"
+        },
+        "RECYCLATE PBT POST-CONSUMER REGRIND-175": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "India",
+            "Source": "Post-Consumer",
+            "Amount": "50 tons / Month",
+            "Price per tons": "1075 $ / t",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/MgR2GGRIeARKifHZr843C/MgR2GGRIeARKifHZr843C.thumbnail.jpeg",
+            "Link": "https://www.cirplus.com/app/offer/pbt-regrind-post-consumer-bSrwBpfVjqsNdrE3sSJyoU"
+        },
+        "RECYCLATE PA 66 POST-INDUSTRIAL NATURAL GRANULES-190": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Czech Republic",
+            "Source": "Post-Industrial",
+            "Amount": "22 tons / Quarter",
+            "Price per tons": "3200 \u20ac / t",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/VzgPRpOwpcryt73Mddqzy/VzgPRpOwpcryt73Mddqzy.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/pa66-granules-natural-post-industrial-hLhnLRx7a4egF9UmWG1atN"
+        },
+        "RECYCLATE PP POST-INDUSTRIAL GRANULES-205": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Poland",
+            "Source": "Post-Industrial",
+            "Amount": "80 tons / Quarter",
+            "Price per tons": "1050 \u20ac / t",
+            "Recycled content": "99 - 100 %",
+            "Image": "https://cdn.cirplus.com/platform/vl0RTF4SU2nS6xsJy46aS/vl0RTF4SU2nS6xsJy46aS.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/pp-granules-post-industrial-3kZEkTfoirgNZrmCLcPhQG"
+        },
+        "RECYCLATE PET POST-CONSUMER OTHER-220": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "United Kingdom",
+            "Source": "Post-Consumer",
+            "Amount": "2000 tons / Month",
+            "Price per tons": "1300 \u20ac / t",
+            "Recycled content": "99 - 100 %",
+            "Image": "https://cdn.cirplus.com/platform/gbTNlEhWXbSg_hOGePQtW/gbTNlEhWXbSg_hOGePQtW.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/pet-other-post-consumer-7Rvv9sawSwqhZCrvVtS8Sy"
+        },
+        "RECYCLATE MIXED POST-INDUSTRIAL GRANULES-235": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Poland",
+            "Source": "Post-Industrial",
+            "Amount": "30 tons / Month",
+            "Price per tons": "1200 \u20ac / t",
+            "Recycled content": "0 %",
+            "Image": "https://cdn.cirplus.com/platform/ipRf2redynMr97PKbvksa/ipRf2redynMr97PKbvksa.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/mixed-granules-post-industrial-dNytUtniThP4QqLz84XJNm"
+        },
+        "RECYCLATE PET POST-INDUSTRIAL GRANULES-250": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Turkey",
+            "Source": "Post-Industrial",
+            "Amount": "750 tons / Month",
+            "Price per tons": "1250 \u20ac / t",
+            "Recycled content": "99 %",
+            "Image": "https://cdn.cirplus.com/platform/1qAj44uGnPcUfAkTe6ti_/1qAj44uGnPcUfAkTe6ti_.thumbnail.jpeg",
+            "Link": "https://www.cirplus.com/app/offer/pet-granules-post-industrial-ip4nis96TNVdeUnMcSB15A"
+        },
+        "RECYCLATE PET POST-CONSUMER REGRIND-265": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Indonesia",
+            "Source": "Post-Consumer",
+            "Amount": "1000 tons / Year",
+            "Price per tons": "950 $ / t",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/CsLJlQXDE0Wg9SCu6kC1U/CsLJlQXDE0Wg9SCu6kC1U.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/pet-regrind-post-consumer-kHYFV8W8KfGZfsKU8kfXnj"
+        },
+        "RECYCLATE PET POST-CONSUMER TRANSPARENT REGRIND-280": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Nigeria",
+            "Source": "Post-Consumer",
+            "Amount": "400 tons / Month",
+            "Price per tons": "450 $ / t",
+            "Recycled content": "99 - 100 %",
+            "Image": "https://cdn.cirplus.com/platform/RewMJ_8fvwqLzcJy9QCds/RewMJ_8fvwqLzcJy9QCds.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/pet-regrind-transparent-post-consumer-qGJs8Pe9kGF97rKnWpPW79"
+        },
+        "RECYCLATE PET POST-CONSUMER REGRIND-295": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Bulgaria",
+            "Source": "Post-Consumer",
+            "Amount": "100 tons / Month",
+            "Price per tons": "1360 \u20ac / t",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/LtfBiVmieuQq-n4WPPkBF/LtfBiVmieuQq-n4WPPkBF.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/pet-regrind-post-consumer-oMR4o9c4YAsYZsjeGpAxyU"
+        },
+        "RECYCLATE PE-HD POST-CONSUMER REGRIND-310": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Spain",
+            "Source": "Post-Consumer",
+            "Amount": "25 tons / Month",
+            "Price per tons": "On request",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/pY-HT0M8jhgKnXFoz5dP4/pY-HT0M8jhgKnXFoz5dP4.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/hdpe-regrind-post-consumer-bXoqnjBeNMQZhXNmPJ4meP"
+        },
+        "RECYCLATE PE-LD POST-INDUSTRIAL GRANULES-325": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Spain",
+            "Source": "Post-Industrial",
+            "Amount": "75 tons / Month",
+            "Price per tons": "On request",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/W5ZSS9avbJkVcWEZUMYwv/W5ZSS9avbJkVcWEZUMYwv.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/ldpe-granules-post-industrial-7f5j2zGp8pakgFfJuxmx5n"
+        },
+        "RECYCLATE PE-LD POST-INDUSTRIAL GRANULES-340": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Spain",
+            "Source": "Post-Industrial",
+            "Amount": "75 tons / Month",
+            "Price per tons": "On request",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/jI2VPGUBem-r2YHjQnb8M/jI2VPGUBem-r2YHjQnb8M.thumbnail.png",
+            "Link": "https://www.cirplus.com/app/offer/ldpe-granules-post-industrial-hLBKTdXy8exsuadWF8CFQv"
+        },
+        "RECYCLATE PP POST-INDUSTRIAL GRANULES-355": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Spain",
+            "Source": "Post-Industrial",
+            "Amount": "75 tons / Month",
+            "Price per tons": "On request",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/Rm8mGJ2LydHPqU4a0pXHC/Rm8mGJ2LydHPqU4a0pXHC.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/pp-granules-post-industrial-s9VzED4xLwZHYyFFAjsqHg"
+        },
+        "RECYCLATE PE-LD POST-INDUSTRIAL GRANULES-370": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Spain",
+            "Source": "Post-Industrial",
+            "Amount": "75 tons / Month",
+            "Price per tons": "On request",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/2RdnsdulONMuZKp-RVT0m/2RdnsdulONMuZKp-RVT0m.thumbnail.jpeg",
+            "Link": "https://www.cirplus.com/app/offer/ldpe-granules-post-industrial-2tT3k3kJx9tp9SrKHDaBs2"
+        },
+        "RECYCLATE PP POST-INDUSTRIAL GRANULES-85": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Spain",
+            "Source": "Post-Industrial",
+            "Amount": "50 tons / Month",
+            "Price per tons": "On request",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/9htmq2_gn_e6-Dn9Hmtf3/9htmq2_gn_e6-Dn9Hmtf3.thumbnail.jpeg",
+            "Link": "https://www.cirplus.com/app/offer/pp-granules-post-industrial-jRzzsrsCD2fyAdi4du5xKP"
+        },
+        "RECYCLATE PP POST-INDUSTRIAL GRANULES-100": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Spain",
+            "Source": "Post-Industrial",
+            "Amount": "75 tons / Month",
+            "Price per tons": "On request",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/zl9UEpJOUlKxXjmGwlb_B/zl9UEpJOUlKxXjmGwlb_B.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/pp-granules-post-industrial-3WnLbxofwLARTpV4Pz9p6t"
+        },
+        "RECYCLATE PE-HD POST-CONSUMER REGRIND-130": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Spain",
+            "Source": "Post-Consumer",
+            "Amount": "100 tons / Month",
+            "Price per tons": "On request",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/NqkFeH3yeWQrSy1uPCj4w/NqkFeH3yeWQrSy1uPCj4w.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/hdpe-regrind-post-consumer-hL8saHMJtavdFn2HF3kmpK"
+        },
+        "RECYCLATE PP POST-CONSUMER REGRIND-145": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Spain",
+            "Source": "Post-Consumer",
+            "Amount": "75 tons / Month",
+            "Price per tons": "On request",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/-l3F9cyKqmeetb83q_Uwa/-l3F9cyKqmeetb83q_Uwa.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/pp-regrind-post-consumer-hHzPiHECLSx1gQFq5jKEGH"
+        },
+        "RECYCLATE PP POST-INDUSTRIAL GRANULES-160": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Spain",
+            "Source": "Post-Industrial",
+            "Amount": "50 tons / Month",
+            "Price per tons": "On request",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/hgIdOYq3SVsEk5UaCchKE/hgIdOYq3SVsEk5UaCchKE.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/pp-granules-post-industrial-n6fhKHgCeZNPBHHUwU3jG2"
+        },
+        "RECYCLATE PP POST-CONSUMER REGRIND-175": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Spain",
+            "Source": "Post-Consumer",
+            "Amount": "100 tons / Month",
+            "Price per tons": "On request",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/IS6IF47rgU0hGqz6v78It/IS6IF47rgU0hGqz6v78It.thumbnail.jpeg",
+            "Link": "https://www.cirplus.com/app/offer/pp-regrind-post-consumer-wGXXgHyVwTS145mngaEcYe"
+        },
+        "RECYCLATE PE-HD POST-CONSUMER REGRIND-190": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Spain",
+            "Source": "Post-Consumer",
+            "Amount": "50 tons / Month",
+            "Price per tons": "On request",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/uwEHD7gEd_znC2pT9vgrV/uwEHD7gEd_znC2pT9vgrV.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/hdpe-regrind-post-consumer-gJ5XH6gotyaxJN5s1dXYcT"
+        },
+        "RECYCLATE PP POST-CONSUMER REGRIND-205": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Spain",
+            "Source": "Post-Consumer",
+            "Amount": "75 tons / Month",
+            "Price per tons": "On request",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/Wautmz6nk8IAQE9vv3in9/Wautmz6nk8IAQE9vv3in9.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/pp-regrind-post-consumer-MkWYxUoPbSscM9h4U9w92"
+        },
+        "RECYCLATE PE-LD POST-INDUSTRIAL GRANULES-220": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Spain",
+            "Source": "Post-Industrial",
+            "Amount": "50 tons / Month",
+            "Price per tons": "On request",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/cUhjii-X3kzq3VC_SaRAF/cUhjii-X3kzq3VC_SaRAF.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/ldpe-granules-post-industrial-cpX2nC5cwygTmMqpp2vg7Z"
+        },
+        "RECYCLATE PE-LD POST-INDUSTRIAL GRANULES-235": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Spain",
+            "Source": "Post-Industrial",
+            "Amount": "100 tons / Month",
+            "Price per tons": "On request",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/U5bRea01DPcO-KwkRxSG4/U5bRea01DPcO-KwkRxSG4.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/ldpe-granules-post-industrial-szG63oHPoN8xkpRJfqRGwn"
+        },
+        "RECYCLATE LLD-PE POST-CONSUMER GRANULES-250": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Poland",
+            "Source": "Post-Consumer",
+            "Amount": "240 tons / Month",
+            "Price per tons": "On request",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/G52wwqyRTlRXcFP646X2u/G52wwqyRTlRXcFP646X2u.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/lld-pe-granules-post-consumer-hjvNMbiq313gsLz3CcGLPB"
+        },
+        "RECYCLATE PE-LD POST-CONSUMER OTHER GRANULES-265": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Poland",
+            "Source": "Post-Consumer",
+            "Amount": "120 tons / Month",
+            "Price per tons": "On request",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/g5_EMGQGdVeREn_OxjD3I/g5_EMGQGdVeREn_OxjD3I.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/ldpe-granules-other-post-consumer-gZpqSFqpsGFeKoeoGEDZCn"
+        },
+        "RECYCLATE PET POST-CONSUMER REGRIND-280": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Serbia",
+            "Source": "Post-Consumer",
+            "Amount": "100 tons",
+            "Price per tons": "1350 \u20ac / t",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/XsxP5AdSCsucMwHR0COVF/XsxP5AdSCsucMwHR0COVF.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/pet-regrind-post-consumer-pC9Lz7ZJCeGERk2Ci5tQex"
+        },
+        "RECYCLATE ABS POST-CONSUMER GRANULES-295": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Poland",
+            "Source": "Post-Consumer",
+            "Amount": "300 tons / Month",
+            "Price per tons": "On request",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/2J3W71geh6kDprUjdCsRx/2J3W71geh6kDprUjdCsRx.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/abs-granules-post-consumer-6KBJacD8wuCqjPZh76Yg9M"
+        },
+        "RECYCLATE PE-LD POST-CONSUMER OTHER GRANULES-310": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Poland",
+            "Source": "Post-Consumer",
+            "Amount": "230 tons / Month",
+            "Price per tons": "On request",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/9mXdhd7iZfjpdX_RV_c3Y/9mXdhd7iZfjpdX_RV_c3Y.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/ldpe-granules-other-post-consumer-cfs6xBbyaKD3ZFa9eWJXxp"
+        },
+        "RECYCLATE PE-LD POST-CONSUMER NATURAL GRANULES-325": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Indonesia",
+            "Source": "Post-Consumer",
+            "Amount": "100 tons / Month",
+            "Price per tons": "780 \u20ac / t",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/t66_3y9GLGEsSYtaHkg4Y/t66_3y9GLGEsSYtaHkg4Y.thumbnail.png",
+            "Link": "https://www.cirplus.com/app/offer/ldpe-granules-natural-post-consumer-9EdjkzDWZbCN9C8asrwrvT"
+        },
+        "RECYCLATE PE-LD POST-CONSUMER BLACK GRANULES-340": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Poland",
+            "Source": "Post-Consumer",
+            "Amount": "100 tons / Month",
+            "Price per tons": "1 \u20ac / t",
+            "Recycled content": "99 - 100 %",
+            "Image": "https://cdn.cirplus.com/platform/CbJo2etFE/CbJo2etFE.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/ldpe-granules-black-post-consumer-qK8ToPTEgY5x4LuFnKaNGF"
+        },
+        "RECYCLATE LLD-PE POST-CONSUMER GRANULES-355": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Poland",
+            "Source": "Post-Consumer",
+            "Amount": "50 tons / Month",
+            "Price per tons": "1 \u20ac / t",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/3vzKD2_j8L8wuuT_1ktTs/3vzKD2_j8L8wuuT_1ktTs.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/lld-pe-granules-post-consumer-q6XoxotTQvMuvNVToxeZxA"
+        },
+        "RECYCLATE LLD-PE POST-CONSUMER GRANULES-370": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Poland",
+            "Source": "Post-Consumer",
+            "Amount": "50 tons / Month",
+            "Price per tons": "1 \u20ac / t",
+            "Recycled content": "1 - 100 %",
+            "Image": "https://cdn.cirplus.com/platform/5OYVilj_3IL2dd-BRbY6d/5OYVilj_3IL2dd-BRbY6d.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/lld-pe-granules-post-consumer-uiZjdMJrg8Axr8TcJaUcaK"
+        },
+        "RECYCLATE PE-LD POST-CONSUMER TRANSPARENT GRANULES-85": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Bulgaria",
+            "Source": "Post-Consumer",
+            "Amount": "5000 tons / Year",
+            "Price per tons": "1420 \u20ac / t",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/ze6NfArGDZgpD1JI-x8xE/ze6NfArGDZgpD1JI-x8xE.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/ldpe-granules-transparent-post-consumer-jw28o3TnbdqVr2HtNazmUr"
+        },
+        "RECYCLATE PP POST-INDUSTRIAL BLACK GRANULES-100": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "South Korea",
+            "Source": "Post-Industrial",
+            "Amount": "400 tons / Month",
+            "Price per tons": "494 $ / t",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/azan8FNFAZxaZsyQzBLVV/azan8FNFAZxaZsyQzBLVV.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/pp-granules-black-post-industrial-bXZZfHTW43KinXLjAGdLxk"
+        },
+        "RECYCLATE PVC POST-INDUSTRIAL REGRIND-130": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Netherlands",
+            "Source": "Post-Industrial",
+            "Amount": "20 tons / Week",
+            "Price per tons": "850 \u20ac / t",
+            "Recycled content": "98 - 100 %",
+            "Image": "https://cdn.cirplus.com/platform/r6o-Xs_c0QNIuhttoNxUY/r6o-Xs_c0QNIuhttoNxUY.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/pvc-regrind-post-industrial-3YhWBXg7GQbLHdsDmDpFjR"
+        },
+        "RECYCLATE PET POST-CONSUMER TRANSPARENT REGRIND-145": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Nigeria",
+            "Source": "Post-Consumer",
+            "Amount": "600 tons / Month",
+            "Price per tons": "On request",
+            "Recycled content": "90 - 100 %",
+            "Image": "https://cdn.cirplus.com/platform/GPo9w1Ji9oMJZsLxacWUN/GPo9w1Ji9oMJZsLxacWUN.thumbnail.jpeg",
+            "Link": "https://www.cirplus.com/app/offer/pet-regrind-transparent-post-consumer-6yjTKDM7zrugoZT9PaYG84"
+        },
+        "RECYCLATE PE-HD POST-INDUSTRIAL GRANULES-160": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Poland",
+            "Source": "Post-Industrial",
+            "Amount": "40 tons / Month",
+            "Price per tons": "920 \u20ac / t",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/nPJVI3tYsdqEA-v6PG3GJ/nPJVI3tYsdqEA-v6PG3GJ.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/hdpe-granules-post-industrial-8X8yKdcUrNrB4yJPgftaUD"
+        },
+        "RECYCLATE PET POST-CONSUMER GRANULES-175": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Japan",
+            "Source": "Post-Consumer",
+            "Amount": "180 tons / Month",
+            "Price per tons": "On request",
+            "Recycled content": "72 %",
+            "Image": "https://cdn.cirplus.com/platform/YpB0OnzenO2st6G5Z4PD3/YpB0OnzenO2st6G5Z4PD3.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/pet-granules-post-consumer-ePejRNC7Bw8PMRiajnaKvk"
+        },
+        "RECYCLATE PE/PP POST-INDUSTRIAL GRANULES-190": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Poland",
+            "Source": "Post-Industrial",
+            "Amount": "100 tons / Month",
+            "Price per tons": "1050 \u20ac / t",
+            "Recycled content": "99 - 100 %",
+            "Image": "https://cdn.cirplus.com/platform/xEGDk6McA3aGan7eAuzGI/xEGDk6McA3aGan7eAuzGI.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/pe-pp-granules-post-industrial-mtq3cVX1ntfYdpjQR2XZVt"
+        },
+        "RECYCLATE POM POST-INDUSTRIAL GRANULES-205": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Poland",
+            "Source": "Post-Industrial",
+            "Amount": "100 tons / Month",
+            "Price per tons": "1300 \u20ac / t",
+            "Recycled content": "99 - 100 %",
+            "Image": "https://cdn.cirplus.com/platform/2528LpGyBW2fcIqEdqp_E/2528LpGyBW2fcIqEdqp_E.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/pom-granules-post-industrial-2sLSMXd5xF5gMsZuAUEk4x"
+        },
+        "RECYCLATE PE-HD POST-CONSUMER REGRIND-220": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Germany",
+            "Source": "Post-Consumer",
+            "Amount": "100 tons / Quarter",
+            "Price per tons": "1000 \u20ac / t",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/6yQJE4rmNEnFTGVnN45gN/6yQJE4rmNEnFTGVnN45gN.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/hdpe-regrind-post-consumer-txuBJQrAV6AeJjjLDMGpie"
+        },
+        "RECYCLATE PP POST-INDUSTRIAL REGRIND-235": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Germany",
+            "Source": "Post-Industrial",
+            "Amount": "100 tons / Quarter",
+            "Price per tons": "1000 \u20ac / t",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/hb2WlJgHfSohw1U-0a5c1/hb2WlJgHfSohw1U-0a5c1.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/pp-regrind-post-industrial-N7N5tkEwfg14F5LMrGC6R"
+        },
+        "RECYCLATE PE-HD POST-CONSUMER REGRIND-250": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Greece",
+            "Source": "Post-Consumer",
+            "Amount": "1 tons / Month",
+            "Price per tons": "1300 \u20ac / t",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/bwqMpdDguL7_ftbZ4Y5jd/bwqMpdDguL7_ftbZ4Y5jd.thumbnail.jpeg",
+            "Link": "https://www.cirplus.com/app/offer/hdpe-regrind-post-consumer-jhbwoHG1h6K57Ro62wwizt"
+        },
+        "RECYCLATE PVC POST-CONSUMER MIXED REGRIND-265": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Netherlands",
+            "Source": "Post-Consumer",
+            "Amount": "100 tons / Month",
+            "Price per tons": "800 \u20ac / t",
+            "Recycled content": "98 - 100 %",
+            "Image": "https://cdn.cirplus.com/platform/DOqeaJpMuw0eePNn3OCLU/DOqeaJpMuw0eePNn3OCLU.thumbnail.jpeg",
+            "Link": "https://www.cirplus.com/app/offer/pvc-regrind-mixed-post-consumer-crERcjzD8HxBtybG9mM5vD"
+        },
+        "COMPOUND PVC POST-CONSUMER MIXED REGRIND-280": {
+            "Commodity type": "Compound",
+            "Pickup location": "Netherlands",
+            "Source": "Post-Consumer",
+            "Amount": "50 tons / Month",
+            "Price per tons": "775 \u20ac / t",
+            "Recycled content": "98 - 100 %",
+            "Image": "https://cdn.cirplus.com/platform/FqazCzpuj/FqazCzpuj.thumbnail.jpeg",
+            "Link": "https://www.cirplus.com/app/offer/pvc-regrind-mixed-post-consumer-uGZxTAKvkKkBtYyvUmZoZ6"
+        },
+        "RECYCLATE PVC POST-CONSUMER OTHER COMPOUND-295": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Netherlands",
+            "Source": "Post-Consumer",
+            "Amount": "50 tons / Month",
+            "Price per tons": "570 \u20ac / t",
+            "Recycled content": "90 - 100 %",
+            "Image": "https://cdn.cirplus.com/platform/wZEHS1fY-XGu4hmxwKsPX/wZEHS1fY-XGu4hmxwKsPX.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/pvc-compound-other-post-consumer-2TPqiEqZzWjfyiSY2yrxZc"
+        },
+        "RECYCLATE PET POST-CONSUMER REGRIND-310": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Albania",
+            "Source": "Post-Consumer",
+            "Amount": "150 tons / Month",
+            "Price per tons": "1100 \u20ac / t",
+            "Recycled content": "100 - 100 %",
+            "Image": "https://cdn.cirplus.com/platform/sS-uCv24wGlnE5dr-fzR7/sS-uCv24wGlnE5dr-fzR7.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/pet-regrind-post-consumer-bVXRtyyHVcT9kXfiFo2eun"
+        },
+        "RECYCLATE PE-LD POST-CONSUMER GRANULES-325": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Germany",
+            "Source": "Post-Consumer",
+            "Amount": "100 tons / Month",
+            "Price per tons": "On request",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/nEfUbI0XSiUaS573xzNMm/nEfUbI0XSiUaS573xzNMm.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/ldpe-granules-post-consumer-qccr3NRuiS6qWrcp6wL9jn"
+        },
+        "RECYCLATE PE-LD POST-CONSUMER GRANULES-340": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Germany",
+            "Source": "Post-Consumer",
+            "Amount": "100 tons / Month",
+            "Price per tons": "On request",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/VsJKIj8oT9OAavRlOrv2F/VsJKIj8oT9OAavRlOrv2F.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/ldpe-granules-post-consumer-5ZdGjvMC9Z1DAmYQcRHXS2"
+        },
+        "RECYCLATE PS POST-INDUSTRIAL GRANULES-355": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "India",
+            "Source": "Post-Industrial",
+            "Amount": "15 tons / Month",
+            "Price per tons": "437 $ / t",
+            "Recycled content": "95 - 100 %",
+            "Image": "https://cdn.cirplus.com/platform/bbWjxsofKYhdMq-rpVMsI/bbWjxsofKYhdMq-rpVMsI.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/ps-granules-post-industrial-gN2GthCRjBwKj7WQVjrqFc"
+        },
+        "RECYCLATE PET POST-CONSUMER REGRIND-370": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Nigeria",
+            "Source": "Post-Consumer",
+            "Amount": "100 tons / Month",
+            "Price per tons": "1000 $ / t",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/lZlbfpOyZr-AUlOCc8a85/lZlbfpOyZr-AUlOCc8a85.thumbnail.jpeg",
+            "Link": "https://www.cirplus.com/app/offer/pet-regrind-post-consumer-eZVfQR7i85j68wUA6VFcnk"
+        },
+        "COMPOUND LLD-PE POST-INDUSTRIAL OTHER-85": {
+            "Commodity type": "Compound",
+            "Pickup location": "India",
+            "Source": "Post-Industrial",
+            "Amount": "450 tons / Month",
+            "Price per tons": "4430 $ / t",
+            "Recycled content": "0 %",
+            "Image": "https://cdn.cirplus.com/platform/MZN73bEPCHp3LfskvHV0J/MZN73bEPCHp3LfskvHV0J.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/lld-pe-other-post-industrial-iCynBp2bJA3Q2ws5jZz3xB"
+        },
+        "RECYCLATE LLD-PE POST-CONSUMER TRANSPARENT GRANULES-100": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Brazil",
+            "Source": "Post-Consumer",
+            "Amount": "200 tons / Month",
+            "Price per tons": "On request",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/ILLXvrCuAI4J0eO2cUCMN/ILLXvrCuAI4J0eO2cUCMN.thumbnail.png",
+            "Link": "https://www.cirplus.com/app/offer/lld-pe-granules-transparent-post-consumer-93YYhkHXGxKLFaxBzsg1gK"
+        },
+        "RECYCLATE PE-LD POST-CONSUMER GRAY GRANULES-115": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Germany",
+            "Source": "Post-Consumer",
+            "Amount": "100 tons / Month",
+            "Price per tons": "850 \u20ac / t",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/w_bGIpXYQT/w_bGIpXYQT.thumbnail.png",
+            "Link": "https://www.cirplus.com/app/offer/ldpe-granules-gray-post-consumer-nQwS48Q8sqW5vNDYhrrTHZ"
+        },
+        "RECYCLATE PP POST-CONSUMER BLUE GRANULES-130": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Germany",
+            "Source": "Post-Consumer",
+            "Amount": "200 tons / Month",
+            "Price per tons": "1361 \u20ac / t",
+            "Recycled content": null,
+            "Image": "https://cdn.cirplus.com/platform/6LTq0Gnvm/6LTq0Gnvm.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/pp-granules-blue-post-consumer-tdKquqhYsPTKxU3sTdaNwZ"
+        },
+        "RECYCLATE PP POST-CONSUMER BLACK GRANULES-142": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Germany",
+            "Source": "Post-Consumer",
+            "Amount": "200 tons / Month",
+            "Price per tons": "1263 \u20ac / t",
+            "Recycled content": null,
+            "Image": "https://cdn.cirplus.com/platform/_4iNPAlFu/_4iNPAlFu.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/pp-granules-black-post-consumer-gTRueNSVGbcV2BRLuS7SFp"
+        },
+        "RECYCLATE PP POST-CONSUMER GRAY GRANULES-154": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Germany",
+            "Source": "Post-Consumer",
+            "Amount": "200 tons / Month",
+            "Price per tons": "1265 \u20ac / t",
+            "Recycled content": null,
+            "Image": "https://cdn.cirplus.com/platform/4gBGw-kUA/4gBGw-kUA.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/pp-granules-gray-post-consumer-mevd2F6xcDgbLvFZ28jEa4"
+        },
+        "RECYCLATE PP POST-CONSUMER RED GRANULES-166": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Germany",
+            "Source": "Post-Consumer",
+            "Amount": "200 tons / Month",
+            "Price per tons": "1293 \u20ac / t",
+            "Recycled content": null,
+            "Image": "https://cdn.cirplus.com/platform/zYOrRVtjM/zYOrRVtjM.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/pp-granules-red-post-consumer-wzo8Fg8fYrrg7MrkLa9RgK"
+        },
+        "RECYCLATE PP POST-CONSUMER GRAY GRANULES-178": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Germany",
+            "Source": "Post-Consumer",
+            "Amount": "200 tons / Month",
+            "Price per tons": "1244 \u20ac / t",
+            "Recycled content": null,
+            "Image": "https://cdn.cirplus.com/platform/o_f9SZyUa/o_f9SZyUa.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/pp-granules-gray-post-consumer-9kY3MDFY3nppeUmRWowDTT"
+        },
+        "RECYCLATE PP POST-CONSUMER GRAY GRANULES-190": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Germany",
+            "Source": "Post-Consumer",
+            "Amount": "200 tons / Month",
+            "Price per tons": "1273 \u20ac / t",
+            "Recycled content": null,
+            "Image": "https://cdn.cirplus.com/platform/-n0tFInoZ/-n0tFInoZ.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/pp-granules-gray-post-consumer-d7aYeH3BRNgfyTCABxCZLr"
+        },
+        "RECYCLATE PE-LD POST-CONSUMER GRAY GRANULES-202": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Germany",
+            "Source": "Post-Consumer",
+            "Amount": "100 tons / Month",
+            "Price per tons": "690 \u20ac / t",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/T7oy3MpUG/T7oy3MpUG.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/ldpe-granules-gray-post-consumer-qbixai5xraxaDXg5PVNJbT"
+        },
+        "RECYCLATE PP POST-CONSUMER GRAY GRANULES-217": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Germany",
+            "Source": "Post-Consumer",
+            "Amount": "200 tons / Month",
+            "Price per tons": "1250 \u20ac / t",
+            "Recycled content": null,
+            "Image": "https://cdn.cirplus.com/platform/enmNdLyYE/enmNdLyYE.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/pp-granules-gray-post-consumer-rAvB6Q8fwVZkdPZCZ1NaGt"
+        },
+        "RECYCLATE PE-LD POST-CONSUMER BLACK GRANULES-229": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Germany",
+            "Source": "Post-Consumer",
+            "Amount": "100 tons / Month",
+            "Price per tons": "On request",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/ZhHSVJGF4wAeMeUfx4nf4/ZhHSVJGF4wAeMeUfx4nf4.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/ldpe-granules-black-post-consumer-fUouyGReR4JsudAXwuWT2k"
+        },
+        "RECYCLATE PE-LD POST-CONSUMER GRAY GRANULES-244": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Germany",
+            "Source": "Post-Consumer",
+            "Amount": "25 tons / Month",
+            "Price per tons": "On request",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/swELBBKEA-Klv1XgtKZGo/swELBBKEA-Klv1XgtKZGo.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/ldpe-granules-gray-post-consumer-f6Jd7ywgNtje6yioxHBgEq"
+        },
+        "RECYCLATE PE-LD POST-CONSUMER BALES-259": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Spain",
+            "Source": "Post-Consumer",
+            "Amount": "100 tons / Week",
+            "Price per tons": "580 \u20ac / t",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/LQmc95le-PNroKZXziApp/LQmc95le-PNroKZXziApp.thumbnail.jpeg",
+            "Link": "https://www.cirplus.com/app/offer/ldpe-bales-post-consumer-pVF73iJuG6qqEDJrjdsJVb"
+        },
+        "OFF-SPEC PET POST-INDUSTRIAL OTHER-274": {
+            "Commodity type": "Off-Spec",
+            "Pickup location": "Portugal",
+            "Source": "Post-Industrial",
+            "Amount": "200 tons / Month",
+            "Price per tons": "500 \u20ac / t",
+            "Recycled content": "98 - 99 %",
+            "Image": "https://cdn.cirplus.com/platform/6dNciikdV7U_uZ5e7SmGk/6dNciikdV7U_uZ5e7SmGk.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/pet-other-post-industrial-x8yEzMxhXZLjzG3HFLvZgp"
+        },
+        "RECYCLATE PC POST-INDUSTRIAL REGRIND-289": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Portugal",
+            "Source": "Post-Industrial",
+            "Amount": "100 tons / Month",
+            "Price per tons": "450 \u20ac / t",
+            "Recycled content": "98 - 99 %",
+            "Image": "https://cdn.cirplus.com/platform/VbIAmIRREX85EReGDeaV4/VbIAmIRREX85EReGDeaV4.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/pc-regrind-post-industrial-cbQnbp9Thbg4X69cwgeqXt"
+        },
+        "RECYCLATE PP POST-CONSUMER GRANULES-304": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Bulgaria",
+            "Source": "Post-Consumer",
+            "Amount": "100 tons / Month",
+            "Price per tons": "950 \u20ac / t",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/zZPARjXTO6l8of-c1XsgJ/zZPARjXTO6l8of-c1XsgJ.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/pp-granules-post-consumer-vpo4hocUSQ3X13FWCPVyCa"
+        },
+        "RECYCLATE PE-HD POST-CONSUMER GRANULES-319": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Bulgaria",
+            "Source": "Post-Consumer",
+            "Amount": "100 tons / Month",
+            "Price per tons": "1300 \u20ac / t",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/9WFji_LNcbw8gJSVXSTcm/9WFji_LNcbw8gJSVXSTcm.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/hdpe-granules-post-consumer-7mKMnX7EjbhC26b7qkUSck"
+        },
+        "RECYCLATE PP POST-CONSUMER REGRIND-334": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Poland",
+            "Source": "Post-Consumer",
+            "Amount": "150 tons / Month",
+            "Price per tons": "On request",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/JHNEHS6d8FzzNnS7ER5Ox/JHNEHS6d8FzzNnS7ER5Ox.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/pp-regrind-post-consumer-2qMiXat2qeozhGkJvqbQSg"
+        },
+        "COMPOUND PP POST-INDUSTRIAL BALES-349": {
+            "Commodity type": "Compound",
+            "Pickup location": "Czech Republic",
+            "Source": "Post-Industrial",
+            "Amount": "100 tons / Week",
+            "Price per tons": "350 \u20ac / t",
+            "Recycled content": "1 - 3 %",
+            "Image": "https://cdn.cirplus.com/platform/YarZY8hX5-k03c6T9444u/YarZY8hX5-k03c6T9444u.thumbnail.jpeg",
+            "Link": "https://www.cirplus.com/app/offer/pp-bales-post-industrial-sifgAmtQMMDoGhBtypJLQr"
+        },
+        "COMPOUND PE-HD POST-INDUSTRIAL REGRIND-85": {
+            "Commodity type": "Compound",
+            "Pickup location": "Czech Republic",
+            "Source": "Post-Industrial",
+            "Amount": "100 tons / Month",
+            "Price per tons": "400 \u20ac / t",
+            "Recycled content": "1 - 3 %",
+            "Image": "https://cdn.cirplus.com/platform/xhy1VvJEeePPmylPk_OEL/xhy1VvJEeePPmylPk_OEL.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/hdpe-regrind-post-industrial-dyiStNFPQpG6Qw6YFzFK2t"
+        },
+        "COMPOUND LLD-PE POST-INDUSTRIAL ROLLS-100": {
+            "Commodity type": "Compound",
+            "Pickup location": "Czech Republic",
+            "Source": "Post-Industrial",
+            "Amount": "100 tons / Month",
+            "Price per tons": "380 \u20ac / t",
+            "Recycled content": "1 - 2 %",
+            "Image": "https://cdn.cirplus.com/platform/2e-NWFq0gZKKHUEXdjFMt/2e-NWFq0gZKKHUEXdjFMt.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/lld-pe-rolls-post-industrial-LZitBzpZNiubbQykE9fse"
+        },
+        "RECYCLATE PET POST-INDUSTRIAL REGRIND-115": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Czech Republic",
+            "Source": "Post-Industrial",
+            "Amount": "100 tons / Month",
+            "Price per tons": "800 \u20ac / t",
+            "Recycled content": "1 - 2 %",
+            "Image": "https://cdn.cirplus.com/platform/hHRnpFLvxOP3MkhcfvSbs/hHRnpFLvxOP3MkhcfvSbs.thumbnail.jpeg",
+            "Link": "https://www.cirplus.com/app/offer/pet-regrind-post-industrial-ejUXzJxZr4Wg37Wp4CJxNR"
+        },
+        "COMPOUND PET POST-INDUSTRIAL BALES-130": {
+            "Commodity type": "Compound",
+            "Pickup location": "Czech Republic",
+            "Source": "Post-Industrial",
+            "Amount": "100 tons / Week",
+            "Price per tons": "330 \u20ac / t",
+            "Recycled content": "01 - 1 %",
+            "Image": "https://cdn.cirplus.com/platform/i0YpTkgdNCnLWYh0sgsds/i0YpTkgdNCnLWYh0sgsds.thumbnail.jpeg",
+            "Link": "https://www.cirplus.com/app/offer/pet-bales-post-industrial-oJFwBgXBcEEarUAUEgnvCV"
+        },
+        "RECYCLATE TPE-U POST-INDUSTRIAL GRANULES-145": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Hungary",
+            "Source": "Post-Industrial",
+            "Amount": "23 tons / Quarter",
+            "Price per tons": "2150 \u20ac / t",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/jjHLpqpmpQHzPyNscstGQ/jjHLpqpmpQHzPyNscstGQ.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/tpe-u-granules-post-industrial-ekUno5fWiD7QD2E1dSpCR8"
+        },
+        "COMPOUND PP POST-INDUSTRIAL GRANULES-160": {
+            "Commodity type": "Compound",
+            "Pickup location": "Czech Republic",
+            "Source": "Post-Industrial",
+            "Amount": "22 tons / Month",
+            "Price per tons": "On request",
+            "Recycled content": "1 - 2 %",
+            "Image": "https://cdn.cirplus.com/platform/D4YAdnBchW503f4gl1uSK/D4YAdnBchW503f4gl1uSK.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/pp-granules-post-industrial-9tWzyVG9qq2gfbiPWC3pqM"
+        },
+        "RECYCLATE PP POST-CONSUMER GRANULES-175": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Turkey",
+            "Source": "Post-Consumer",
+            "Amount": "120 tons / Month",
+            "Price per tons": "On request",
+            "Recycled content": "99 - 100 %",
+            "Image": "https://cdn.cirplus.com/platform/OoprcTq52B1LVbWzcRcod/OoprcTq52B1LVbWzcRcod.thumbnail.png",
+            "Link": "https://www.cirplus.com/app/offer/pp-granules-post-consumer-iE8KiNSuwVmKzdAfmxEMRt"
+        },
+        "RECYCLATE PE-HD POST-INDUSTRIAL GRANULES-190": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Turkey",
+            "Source": "Post-Industrial",
+            "Amount": "200 tons / Month",
+            "Price per tons": "On request",
+            "Recycled content": "99 - 100 %",
+            "Image": "https://cdn.cirplus.com/platform/WGFBpiS2lDLlHLpMv4p2O/WGFBpiS2lDLlHLpMv4p2O.thumbnail.jpeg",
+            "Link": "https://www.cirplus.com/app/offer/hdpe-granules-post-industrial-TLxt3kiieMrBvDERbmMvB"
+        },
+        "RECYCLATE PET POST-CONSUMER GRANULES-205": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Czech Republic",
+            "Source": "Post-Consumer",
+            "Amount": "100 tons / Month",
+            "Price per tons": "On request",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/P_isTXjPkuwR-VH00Z8Hk/P_isTXjPkuwR-VH00Z8Hk.thumbnail.png",
+            "Link": "https://www.cirplus.com/app/offer/pet-granules-post-consumer-n2vALLeCcVgabRoontB51i"
+        },
+        "RECYCLATE PP POST-INDUSTRIAL GRANULES-220": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Turkey",
+            "Source": "Post-Industrial",
+            "Amount": "200 tons / Month",
+            "Price per tons": "On request",
+            "Recycled content": "99 - 100 %",
+            "Image": "https://cdn.cirplus.com/platform/aFSLdt3AdEBzpHcqjiBf9/aFSLdt3AdEBzpHcqjiBf9.thumbnail.png",
+            "Link": "https://www.cirplus.com/app/offer/pp-granules-post-industrial-quL6bNevWnnCLSLnndrtJi"
+        },
+        "RECYCLATE PE-HD POST-CONSUMER MIXED OTHER-235": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Germany",
+            "Source": "Post-Consumer",
+            "Amount": "20 tons / Month",
+            "Price per tons": "480 \u20ac / t",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/6E-ZZ4RBbmFYSt_3EY3y-/6E-ZZ4RBbmFYSt_3EY3y-.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/hdpe-other-mixed-post-consumer-c1Pi8Wi9L9n2WwSZAy6Ypc"
+        },
+        "RECYCLATE PET POST-CONSUMER REGRIND-250": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Turkey",
+            "Source": "Post-Consumer",
+            "Amount": "300 tons / Month",
+            "Price per tons": "On request",
+            "Recycled content": "99 - 100 %",
+            "Image": "https://cdn.cirplus.com/platform/bGnz-gizkl6Dm5s0ZqcEF/bGnz-gizkl6Dm5s0ZqcEF.thumbnail.jpeg",
+            "Link": "https://www.cirplus.com/app/offer/pet-regrind-post-consumer-aHnhq917jvZTuEMP8AiDKg"
+        },
+        "RECYCLATE PE-LD POST-CONSUMER GRANULES-265": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Turkey",
+            "Source": "Post-Consumer",
+            "Amount": "1200 tons / Month",
+            "Price per tons": "On request",
+            "Recycled content": "99 - 100 %",
+            "Image": "https://cdn.cirplus.com/platform/PpPjO61X63P6rpq9DPkyA/PpPjO61X63P6rpq9DPkyA.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/ldpe-granules-post-consumer-mkmaNQYy7DAD8QH9T6CFzB"
+        },
+        "RECYCLATE PE-LD POST-CONSUMER GREEN GRANULES-280": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Germany",
+            "Source": "Post-Consumer",
+            "Amount": "200 tons / Month",
+            "Price per tons": "580 \u20ac / t",
+            "Recycled content": "99 - 100 %",
+            "Image": "https://cdn.cirplus.com/platform/ZBHnDOBeXJgboFKZ5BNvz/ZBHnDOBeXJgboFKZ5BNvz.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/ldpe-granules-green-post-consumer-5KZR9WgektoXQvogtxb12g"
+        },
+        "COMPOUND PP POST-CONSUMER TRANSPARENT GRANULES-295": {
+            "Commodity type": "Compound",
+            "Pickup location": "Germany",
+            "Source": "Post-Consumer",
+            "Amount": "20 tons / Month",
+            "Price per tons": "1730 \u20ac / t",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/SEEf2ElB0/SEEf2ElB0.thumbnail.jpeg",
+            "Link": "https://www.cirplus.com/app/offer/pp-granules-transparent-post-consumer-hfoP97wxNDSAHrnNNJXnwx"
+        },
+        "RECYCLATE PE-HD POST-CONSUMER OTHER-310": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Greece",
+            "Source": "Post-Consumer",
+            "Amount": "75 tons / Month",
+            "Price per tons": "On request",
+            "Recycled content": "19 - 20 %",
+            "Image": "https://cdn.cirplus.com/platform/UvxHefLO1t_WhPyLz51fd/UvxHefLO1t_WhPyLz51fd.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/hdpe-other-post-consumer-oL59NePEqWVPK85ekS7kGY"
+        },
+        "RECYCLATE PE-HD POST-INDUSTRIAL OTHER-325": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Greece",
+            "Source": "Post-Industrial",
+            "Amount": "100 tons / Month",
+            "Price per tons": "On request",
+            "Recycled content": "0 %",
+            "Image": "https://cdn.cirplus.com/platform/_4hlrzmKGzjG3ATjYIR_b/_4hlrzmKGzjG3ATjYIR_b.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/hdpe-other-post-industrial-mwnc5HjACvZ5XtUqQwAU3Q"
+        },
+        "RECYCLATE PE-LD POST-CONSUMER OTHER-340": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Greece",
+            "Source": "Post-Consumer",
+            "Amount": "350 tons / Month",
+            "Price per tons": "On request",
+            "Recycled content": "10 %",
+            "Image": "https://cdn.cirplus.com/platform/UNVUbli4WRR0vl8OfozWA/UNVUbli4WRR0vl8OfozWA.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/ldpe-other-post-consumer-xkAjrXoP6Tehohb2ZKYazo"
+        },
+        "RECYCLATE PE-LD POST-CONSUMER OTHER-355": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Greece",
+            "Source": "Post-Consumer",
+            "Amount": "50 tons / Month",
+            "Price per tons": "On request",
+            "Recycled content": "0 %",
+            "Image": "https://cdn.cirplus.com/platform/pk4l60kF7oE9PPmI68x6A/pk4l60kF7oE9PPmI68x6A.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/ldpe-other-post-consumer-cPbtnJsCQ52fitXNZ8Xw6A"
+        },
+        "RECYCLATE PE-LD POST-CONSUMER OTHER-370": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Greece",
+            "Source": "Post-Consumer",
+            "Amount": "100 tons / Month",
+            "Price per tons": "On request",
+            "Recycled content": "0 %",
+            "Image": "https://cdn.cirplus.com/platform/yFwMou4J7hz9XYG6yrW_z/yFwMou4J7hz9XYG6yrW_z.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/ldpe-other-post-consumer-kR5n49qRq4JVWaHgsn2NTE"
+        },
+        "RECYCLATE PE-LD POST-CONSUMER OTHER-85": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Greece",
+            "Source": "Post-Consumer",
+            "Amount": "50 tons / Month",
+            "Price per tons": "On request",
+            "Recycled content": "0 %",
+            "Image": "https://cdn.cirplus.com/platform/3EOF8L8veI0TyAq-33G6K/3EOF8L8veI0TyAq-33G6K.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/ldpe-other-post-consumer-6CML3iJiMVDcWoe6XWa2fR"
+        },
+        "RECYCLATE LLD-PE POST-CONSUMER OTHER-100": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Greece",
+            "Source": "Post-Consumer",
+            "Amount": "75 tons / Month",
+            "Price per tons": "On request",
+            "Recycled content": "0 %",
+            "Image": "https://cdn.cirplus.com/platform/l26WdgI3AC5j3EC7YforN/l26WdgI3AC5j3EC7YforN.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/lld-pe-other-post-consumer-2662stPkyoM5Ka6Y9M1VHo"
+        },
+        "RECYCLATE PS POST-CONSUMER OTHER-115": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Greece",
+            "Source": "Post-Consumer",
+            "Amount": "100 tons / Month",
+            "Price per tons": "On request",
+            "Recycled content": "0 %",
+            "Image": "https://cdn.cirplus.com/platform/4PumnkRNMI2gmdCcQf8qL/4PumnkRNMI2gmdCcQf8qL.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/ps-other-post-consumer-cvCq3JN8RtVRYWmGU5nnVE"
+        },
+        "RECYCLATE PVC POST-CONSUMER GRAY GRANULES-130": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Poland",
+            "Source": "Post-Consumer",
+            "Amount": "100 tons / Month",
+            "Price per tons": "On request",
+            "Recycled content": "80 - 90 %",
+            "Image": "https://cdn.cirplus.com/platform/0SgZ5Xk2PQ-cvVncuu8ao/0SgZ5Xk2PQ-cvVncuu8ao.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/pvc-granules-gray-post-consumer-9pAXoQMAq9yHRZQmBrKiua"
+        },
+        "RECYCLATE PE-HD POST-INDUSTRIAL GRANULES-145": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Poland",
+            "Source": "Post-Industrial",
+            "Amount": "40 tons / Month",
+            "Price per tons": "980 \u20ac / t",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/K0-aF05ha_lKbMWcIFTyj/K0-aF05ha_lKbMWcIFTyj.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/hdpe-granules-post-industrial-ohkPL9g1RrkJRqyFugHXdu"
+        },
+        "RECYCLATE PE-HD POST-CONSUMER WHITE GRANULES-160": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Philippines",
+            "Source": "Post-Consumer",
+            "Amount": "30 tons / Month",
+            "Price per tons": "1250 $ / t",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/-tLsAmXAdc5a4LIP3XGm4/-tLsAmXAdc5a4LIP3XGm4.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/hdpe-granules-white-post-consumer-o9CvvtSsaJMm8MZRNjVDaw"
+        },
+        "RECYCLATE PP POST-INDUSTRIAL GRANULES-175": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Poland",
+            "Source": "Post-Industrial",
+            "Amount": "121 tons / Month",
+            "Price per tons": "1000 \u20ac / t",
+            "Recycled content": "85 - 100 %",
+            "Image": "https://cdn.cirplus.com/platform/VTSDXv6CbZdSRv9HvaDXO/VTSDXv6CbZdSRv9HvaDXO.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/pp-granules-post-industrial-a7AwnTTzK15mYKnGmga3E9"
+        },
+        "RECYCLATE PP POST-CONSUMER GRANULES-190": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Turkey",
+            "Source": "Post-Consumer",
+            "Amount": "200 tons / Month",
+            "Price per tons": "915 \u20ac / t",
+            "Recycled content": "10 - 20 %",
+            "Image": "https://cdn.cirplus.com/platform/jAyP2zzIOUIHLCYwVYsbC/jAyP2zzIOUIHLCYwVYsbC.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/pp-granules-post-consumer-aMTBwmZWrmWqXqi3poEciN"
+        },
+        "RECYCLATE PP POST-CONSUMER GRANULES-205": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Turkey",
+            "Source": "Post-Consumer",
+            "Amount": "125 tons / Month",
+            "Price per tons": "1115 \u20ac / t",
+            "Recycled content": "1 - 3 %",
+            "Image": "https://cdn.cirplus.com/platform/XT2IxKLCV-n7dJuIf4YJw/XT2IxKLCV-n7dJuIf4YJw.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/pp-granules-post-consumer-jtpm5WLffDxqYQiSQerreo"
+        },
+        "RECYCLATE PP POST-CONSUMER GRANULES-220": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Turkey",
+            "Source": "Post-Consumer",
+            "Amount": "125 tons / Month",
+            "Price per tons": "1250 \u20ac / t",
+            "Recycled content": "0 - 1 %",
+            "Image": "https://cdn.cirplus.com/platform/MakHgbm7tFFLZCAcd61VI/MakHgbm7tFFLZCAcd61VI.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/pp-granules-post-consumer-6e7Q1BYeQRdaJmqNataUd5"
+        },
+        "RECYCLATE PE-HD POST-CONSUMER GRANULES-235": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Turkey",
+            "Source": "Post-Consumer",
+            "Amount": "180 tons / Month",
+            "Price per tons": "1100 \u20ac / t",
+            "Recycled content": "2 - 8 %",
+            "Image": "https://cdn.cirplus.com/platform/eaZcQFErAMe3BPhHdmcu8/eaZcQFErAMe3BPhHdmcu8.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/hdpe-granules-post-consumer-umTTpcMF9WpcXbHsNBjJmm"
+        },
+        "RECYCLATE PE-HD POST-CONSUMER GRANULES-250": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Turkey",
+            "Source": "Post-Consumer",
+            "Amount": "180 tons / Month",
+            "Price per tons": "1100 \u20ac / t",
+            "Recycled content": "2 - 10 %",
+            "Image": "https://cdn.cirplus.com/platform/0KbsC1PZXvvvt1l6I3EbK/0KbsC1PZXvvvt1l6I3EbK.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/hdpe-granules-post-consumer-nsjuQwC9KiCHFdPzPaxSEq"
+        },
+        "RECYCLATE PE-HD POST-CONSUMER GRANULES-265": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Turkey",
+            "Source": "Post-Consumer",
+            "Amount": "180 tons / Month",
+            "Price per tons": "1100 \u20ac / t",
+            "Recycled content": "2 - 5 %",
+            "Image": "https://cdn.cirplus.com/platform/tbuSbx5H_Nf9cX02-boVq/tbuSbx5H_Nf9cX02-boVq.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/hdpe-granules-post-consumer-fRayiwrmZH7SpWWHaqXQzj"
+        },
+        "RECYCLATE PE-HD POST-CONSUMER GRANULES-280": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Turkey",
+            "Source": "Post-Consumer",
+            "Amount": "180 tons / Month",
+            "Price per tons": "1100 \u20ac / t",
+            "Recycled content": "2 - 5 %",
+            "Image": "https://cdn.cirplus.com/platform/27J3eIWUUzTHUl2GW_2fu/27J3eIWUUzTHUl2GW_2fu.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/hdpe-granules-post-consumer-8GKX4xJiYDpSjWY7m4zThy"
+        },
+        "RECYCLATE PE-HD POST-CONSUMER GRANULES-295": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Turkey",
+            "Source": "Post-Consumer",
+            "Amount": "180 tons / Month",
+            "Price per tons": "1100 \u20ac / t",
+            "Recycled content": "2 - 8 %",
+            "Image": "https://cdn.cirplus.com/platform/XnuywusTi-LjPq-t3FOSl/XnuywusTi-LjPq-t3FOSl.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/hdpe-granules-post-consumer-rybRFEtBUTcLeC4SiWipbu"
+        },
+        "RECYCLATE PE-LD POST-CONSUMER GRANULES-310": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Turkey",
+            "Source": "Post-Consumer",
+            "Amount": "150 tons / Month",
+            "Price per tons": "915 \u20ac / t",
+            "Recycled content": "2 - 15 %",
+            "Image": "https://cdn.cirplus.com/platform/ccf8cYemNAbleKc1QktqD/ccf8cYemNAbleKc1QktqD.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/ldpe-granules-post-consumer-9HU6bJT9tPvP4RZwMh86CQ"
+        },
+        "RECYCLATE PE-LD POST-CONSUMER GRANULES-325": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Turkey",
+            "Source": "Post-Consumer",
+            "Amount": "200 tons / Month",
+            "Price per tons": "925 \u20ac / t",
+            "Recycled content": "2 - 10 %",
+            "Image": "https://cdn.cirplus.com/platform/W8Dnnz1Pd06FIQFGTzTsy/W8Dnnz1Pd06FIQFGTzTsy.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/ldpe-granules-post-consumer-rX6Cwg7y71jWHKQZkARjrJ"
+        },
+        "RECYCLATE PE-LD POST-CONSUMER GRANULES-340": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Turkey",
+            "Source": "Post-Consumer",
+            "Amount": "50 tons / Month",
+            "Price per tons": "1115 \u20ac / t",
+            "Recycled content": "2 - 5 %",
+            "Image": "https://cdn.cirplus.com/platform/xv93Zx7nW6AEAP5HhBjZ7/xv93Zx7nW6AEAP5HhBjZ7.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/ldpe-granules-post-consumer-waTm4Y9gj8xFraWfutsx67"
+        },
+        "RECYCLATE PE-LD POST-CONSUMER GRANULES-355": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Turkey",
+            "Source": "Post-Consumer",
+            "Amount": "100 tons / Month",
+            "Price per tons": "1100 \u20ac / t",
+            "Recycled content": "2 - 5 %",
+            "Image": "https://cdn.cirplus.com/platform/YGMywd7dKBHBsPPXh9jth/YGMywd7dKBHBsPPXh9jth.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/ldpe-granules-post-consumer-bopEc7PhrBEySh3coQUbjG"
+        },
+        "RECYCLATE PE-LD POST-CONSUMER GRANULES-370": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Turkey",
+            "Source": "Post-Consumer",
+            "Amount": "50 tons / Month",
+            "Price per tons": "1300 \u20ac / t",
+            "Recycled content": "2 - 5 %",
+            "Image": "https://cdn.cirplus.com/platform/kkjKD4mWbVS2EA8zvGRJ0/kkjKD4mWbVS2EA8zvGRJ0.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/ldpe-granules-post-consumer-7womwymn9pvHJ9VFzYmFRN"
+        },
+        "RECYCLATE PE-HD POST-INDUSTRIAL GRAY REGRIND-85": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Germany",
+            "Source": "Post-Industrial",
+            "Amount": "500 tons / Year",
+            "Price per tons": "On request",
+            "Recycled content": "99 - 100 %",
+            "Image": "https://cdn.cirplus.com/platform/sA6frMQ1-8bVmC-2eY1Jw/sA6frMQ1-8bVmC-2eY1Jw.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/hdpe-regrind-gray-post-industrial-8KthN3C8e6UT9bWGwUBsjh"
+        },
+        "OFF-SPEC PET POST-INDUSTRIAL OTHER-100": {
+            "Commodity type": "Off-Spec",
+            "Pickup location": "Belgium",
+            "Source": "Post-Industrial",
+            "Amount": "60 tons / Month",
+            "Price per tons": "On request",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/2IaZ1g3wBfpYsJABMFVJP/2IaZ1g3wBfpYsJABMFVJP.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/pet-other-post-industrial-bGvHE7XT5KyTHGktV57C8f"
+        },
+        "RECYCLATE PET POST-CONSUMER REGRIND-115": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Belgium",
+            "Source": "Post-Consumer",
+            "Amount": "20 tons / Month",
+            "Price per tons": "550 \u20ac / t",
+            "Recycled content": "99 - 100 %",
+            "Image": "https://cdn.cirplus.com/platform/BAvY2R0PCOeyb4mPBDmI5/BAvY2R0PCOeyb4mPBDmI5.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/pet-regrind-post-consumer-3db18M6cKSdrCmiPzRuNHS"
+        },
+        "RECYCLATE PET POST-CONSUMER REGRIND-130": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Netherlands",
+            "Source": "Post-Consumer",
+            "Amount": "20 tons / Week",
+            "Price per tons": "1200 \u20ac / t",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/RsBHYuF2it53MJWbL8OOS/RsBHYuF2it53MJWbL8OOS.thumbnail.png",
+            "Link": "https://www.cirplus.com/app/offer/pet-regrind-post-consumer-9jNVhNne2g8rQFWZw1KNVj"
+        },
+        "RECYCLATE PET POST-CONSUMER REGRIND-145": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Belgium",
+            "Source": "Post-Consumer",
+            "Amount": "20 tons / Week",
+            "Price per tons": "950 \u20ac / t",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/01jM_u032d-sJNPvcNS6-/01jM_u032d-sJNPvcNS6-.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/pet-regrind-post-consumer-5UJpodzKuxPFtzKzeW8Vq9"
+        },
+        "OFF-SPEC PET POST-INDUSTRIAL REGRIND-160": {
+            "Commodity type": "Off-Spec",
+            "Pickup location": "Belgium",
+            "Source": "Post-Industrial",
+            "Amount": "23 tons / Month",
+            "Price per tons": "1300 \u20ac / t",
+            "Recycled content": "100 %",
+            "Image": "https://cdn.cirplus.com/platform/VBzXUY8iv60nfsvNn1Toi/VBzXUY8iv60nfsvNn1Toi.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/pet-regrind-post-industrial-3mFSFwKtRUDDiTUSBghFnW"
+        },
+        "RECYCLATE PC POST-INDUSTRIAL REGRIND-190": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Tunisia",
+            "Source": "Post-Industrial",
+            "Amount": "50 tons / Month",
+            "Price per tons": "1000 \u20ac / t",
+            "Recycled content": "1 - 100 %",
+            "Image": "https://cdn.cirplus.com/platform/qtSBLLOXkjL6Uzh7J_2Kh/qtSBLLOXkjL6Uzh7J_2Kh.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/pc-regrind-post-industrial-5CPf3rdg4uYGtdA64GcFN5"
+        },
+        "RECYCLATE POM POST-INDUSTRIAL REGRIND-205": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Tunisia",
+            "Source": "Post-Industrial",
+            "Amount": "25 tons / Month",
+            "Price per tons": "800 \u20ac / t",
+            "Recycled content": "1 - 100 %",
+            "Image": "https://cdn.cirplus.com/platform/Tm7H_6hT5f22J8qEUpP46/Tm7H_6hT5f22J8qEUpP46.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/pom-regrind-post-industrial-j82RyWpdesQb67vF6L6CH3"
+        },
+        "RECYCLATE ABS POST-INDUSTRIAL REGRIND-220": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Tunisia",
+            "Source": "Post-Industrial",
+            "Amount": "50 tons / Month",
+            "Price per tons": "1000 \u20ac / t",
+            "Recycled content": "0 - 100 %",
+            "Image": "https://cdn.cirplus.com/platform/Byo7mc3yd9RECDBpUSB9K/Byo7mc3yd9RECDBpUSB9K.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/abs-regrind-post-industrial-ev5pjeugRdqgqU5uZAi19d"
+        },
+        "RECYCLATE LLD-PE POST-INDUSTRIAL GRANULES-235": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Romania",
+            "Source": "Post-Industrial",
+            "Amount": "100 tons / Month",
+            "Price per tons": "990 \u20ac / t",
+            "Recycled content": "80 - 100 %",
+            "Image": "https://cdn.cirplus.com/platform/i8PyBYZBFLVDdxIlvu80p/i8PyBYZBFLVDdxIlvu80p.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/lld-pe-granules-post-industrial-3bYTmWun6eDgnbbxtTBThn"
+        },
+        "RECYCLATE PA12 POST-INDUSTRIAL BLACK GRANULES-250": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Germany",
+            "Source": "Post-Industrial",
+            "Amount": "4 tons / Month",
+            "Price per tons": "On request",
+            "Recycled content": "97 - 98 %",
+            "Image": "https://cdn.cirplus.com/platform/fliczrTHATN-rK0cZT-lN/fliczrTHATN-rK0cZT-lN.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/pa12-granules-black-post-industrial-rbH2obbNt9C4miV97tcpBj"
+        },
+        "RECYCLATE EVA POST-INDUSTRIAL REGRIND-265": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Italy",
+            "Source": "Post-Industrial",
+            "Amount": "22 tons / Month",
+            "Price per tons": "1000 \u20ac / t",
+            "Recycled content": "98 - 100 %",
+            "Image": "https://cdn.cirplus.com/platform/B6l6JQ1dEz2PTBuolLObj/B6l6JQ1dEz2PTBuolLObj.thumbnail.jpeg",
+            "Link": "https://www.cirplus.com/app/offer/eva-regrind-post-industrial-pnTjMaMv4SxwV4xY3GMfdR"
+        },
+        "RECYCLATE PVC POST-CONSUMER REGRIND-280": {
+            "Commodity type": "Recyclate",
+            "Pickup location": "Netherlands",
+            "Source": "Post-Consumer",
+            "Amount": "75 tons / Month",
+            "Price per tons": "570 \u20ac / t",
+            "Recycled content": "90 - 100 %",
+            "Image": "https://cdn.cirplus.com/platform/zuLQ98wzsb8AaztGDw1Cv/zuLQ98wzsb8AaztGDw1Cv.thumbnail.jpeg",
+            "Link": "https://www.cirplus.com/app/offer/pvc-regrind-post-consumer-fx9eC16iQNpRGFmC5w7uto"
+        },
+        "COMPOUND ABS POST-CONSUMER-295": {
+            "Commodity type": "Compound",
+            "Pickup location": "Germany",
+            "Source": "Post-Consumer",
+            "Amount": "10 tons / Month",
+            "Price per tons": "2680 \u20ac / t",
+            "Recycled content": "85 %",
+            "Image": "https://cdn.cirplus.com/platform/nPmN7ojdFr7Q7GmY8fLH8/nPmN7ojdFr7Q7GmY8fLH8.thumbnail.jpg",
+            "Link": "https://www.cirplus.com/app/offer/abs-post-consumer-6zp9LBxj8dxX55VsPUTeBs"
+        }
+    }
 }
