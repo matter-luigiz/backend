@@ -34,21 +34,6 @@ app.get('/categories', (req, res) => {
         res.status(500).send('Error finding category file');
     }
 });
-app.get('/:site', (req, res) => {
-    const filePath = path.join(__dirname, 'files/sites', req.params['site'] + '.json');
-    console.log(`[server]: Received request for site ${req.params['site']} -> path is ${filePath}`);
-    res.set({
-        "Content-Type": "application/json",
-        "Access-Control-Allow-Origin": "*",
-        "Access-Control-Allow-Credentials": true
-    });
-    if (fs.existsSync(filePath)) {
-        console.log(`[server]: Found file for site ${req.params['site']}`);
-        res.status(200).sendFile(filePath);
-    } else {
-        res.status(404).send('Cannot find listing for site ' + req.params['site']);
-    }
-});
 
 app.post("/product", (req, res) => {
     const id = req.query['id'];
@@ -89,6 +74,22 @@ app.post("/next", (req, res) => {
     const offset = req.query['offset'];
     res.status(200).send(nextData(offset))
 })
+
+app.get('/:site', (req, res) => {
+    const filePath = path.join(__dirname, 'files/sites', req.params['site'] + '.json');
+    console.log(`[server]: Received request for site ${req.params['site']} -> path is ${filePath}`);
+    res.set({
+        "Content-Type": "application/json",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Credentials": true
+    });
+    if (fs.existsSync(filePath)) {
+        console.log(`[server]: Found file for site ${req.params['site']}`);
+        res.status(200).sendFile(filePath);
+    } else {
+        res.status(404).send('Cannot find listing for site ' + req.params['site']);
+    }
+});
 
 function nextData(place, items) {
     if (!data || place * 20 >= data.length) {
