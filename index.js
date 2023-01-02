@@ -50,7 +50,7 @@ app.get('/:site', (req, res) => {
 });
 
 app.post("/product", (req, res) => {
-  const { id } = req.body;
+  const id = req.query['id'];
   for (let thingo of data) {
     if (thingo.ID === id) {
       res.send(thingo);
@@ -60,22 +60,25 @@ app.post("/product", (req, res) => {
 })
 
 app.post("/search", (req, res) => {
-    const { category, search } = (req.body);
+    const category = req.query['category'];
+    const search = req.query['search'];
+    const offset = req.query['offset'];
+
   items = [];
   if (!categories.hasOwnProperty(category)) {
     return null;
   }
   for (let thingo of categories[category]) {
-    if (thingo.includes(search)) {
+    if (!search || thingo.includes(search)) {
       items.push(data[thingo]);
     }
   }
-  res.send(nextData(0));
+  res.send(nextData(offset ?? 0));
 })
 
 app.post("/next", (req, res) => {
-    const { index } = req.body;
-    res.send(nextData(index))
+    const offset = req.query['offset'];
+    res.send(nextData(offset))
 })
 
 function nextData(place) {
