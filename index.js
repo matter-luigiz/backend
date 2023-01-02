@@ -13,8 +13,8 @@ app.use(cors());
 
 const port = process.env.PORT;
 
-const data = JSON.parse(readFileSync('./backend/files/new_data.json', 'utf8'));
-const categories = JSON.parse(readFileSync('./backend/files/category_data.json', 'utf8'));
+const data = JSON.parse(readFileSync('./files/new_data.json', 'utf8'));
+const categories = JSON.parse(readFileSync('./files/category_data.json', 'utf8'));
 
 app.get('/', (req, res) => {
     res.send('Luigiz Backend');
