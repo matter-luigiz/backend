@@ -35,44 +35,48 @@ app.get('/categories', (req, res) => {
     }
 });
 
-app.post("/product", (req, res) => {
-    const id = req.query['id'];
+app.get("/product", (req, res) => {
+    const id = parseInt(req.query['id']);
     if (!id) {
         res.status(400).send('Product request must include id');
+        return;
     }
 
-    for (let thingo of data) {
-        if (thingo.ID === id) {
-            res.send(thingo);
-            break;
+    const dataArr = Object.entries(data);
+    for (let thingo of dataArr) {
+        if (thingo[1]['ID'] === id) {
+            res.status(200).send(thingo);
+            return;
         }
     }
     res.status(404).send(`Cannot find item with id ${id}`);
 })
 
-app.post("/search", (req, res) => {
+app.get("/search", (req, res) => {
     const category = req.query['cat'];
     const search = req.query['q'];
-    const page = req.query['p'] - 1;
+    let page = parseInt(req.query['p'] ?? '0');
+    page = page === 0 ? 0 : page - 1;
 
     let items = [];
-    if (!categories.hasOwnProperty(category)) {
+    if (!categories.hasOwnProperty(category) && category !== 'all') {
         res.status(400).send('Search request must include category');
+        return;
     }
-    const catsToSearch = category !== 'all' ? [category] : categories.keys();
+    const catsToSearch = category !== 'all' ? [category] : Object.keys(categories);
     for (let cat of catsToSearch) {
         for (let thingo of categories[cat]) {
             if (!search || thingo.includes(search)) {
-                items.push(data[thingo]);
+                items.push([thingo, data[thingo]]);
             }
         }
     }
-    res.send(nextData(page ?? 0, items));
+    res.status(200).send(nextData(page ?? 0, items));
 })
 
-app.post("/next", (req, res) => {
+app.get("/next", (req, res) => {
     const offset = req.query['offset'];
-    res.status(200).send(nextData(offset))
+    res.status(200).send(nextData(offset, Object.entries(data)));
 })
 
 app.get('/:site', (req, res) => {
@@ -92,10 +96,10 @@ app.get('/:site', (req, res) => {
 });
 
 function nextData(place, items) {
-    if (!data || place * 20 >= data.length) {
+    if (!items || place * 20 >= items.length) {
         return [];
     }
-    return items.slice(place * 20, Math.min((place + 1) * 20, data.length));
+    return items.slice(place * 20, Math.min((place + 1) * 20, items.length));
 }
 
 app.listen(port, () => {
