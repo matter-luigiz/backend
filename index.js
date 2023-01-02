@@ -1,5 +1,4 @@
-import {readFileSync} from 'fs';
-
+const readFileSync = require('fs').readFileSync;
 const express = require('express');
 const dotenv = require('dotenv');
 const fs = require('fs');
