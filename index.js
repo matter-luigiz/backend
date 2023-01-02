@@ -1,16 +1,18 @@
-import { readFileSync } from 'fs';
+import {readFileSync} from 'fs';
 
 const express = require('express');
 const dotenv = require('dotenv');
-const fs = require('fs')
-const path = require('path')
+const fs = require('fs');
+const path = require('path');
+const cors = require('cors');
 
 dotenv.config();
 
 const app = express();
-const port = process.env.PORT;
 
-let items = [];
+app.use(cors());
+
+const port = process.env.PORT;
 
 const data = JSON.parse(readFileSync('./backend/files/new_data.json', 'utf8'));
 const categories = JSON.parse(readFileSync('./backend/files/category_data.json', 'utf8'));
@@ -25,7 +27,7 @@ app.get('/categories', (req, res) => {
     res.set({
         "Content-Type": "application/json",
         "Access-Control-Allow-Origin": "*",
-        "Access-Control-Allow-Credentials" : true
+        "Access-Control-Allow-Credentials": true
     });
     if (fs.existsSync(filePath)) {
         res.status(200).sendFile(filePath);
@@ -39,7 +41,7 @@ app.get('/:site', (req, res) => {
     res.set({
         "Content-Type": "application/json",
         "Access-Control-Allow-Origin": "*",
-        "Access-Control-Allow-Credentials" : true
+        "Access-Control-Allow-Credentials": true
     });
     if (fs.existsSync(filePath)) {
         console.log(`[server]: Found file for site ${req.params['site']}`);
@@ -50,44 +52,51 @@ app.get('/:site', (req, res) => {
 });
 
 app.post("/product", (req, res) => {
-  const id = req.query['id'];
-  for (let thingo of data) {
-    if (thingo.ID === id) {
-      res.send(thingo);
-      break;
+    const id = req.query['id'];
+    if (!id) {
+        res.status(400).send('Product request must include id');
     }
-  }
+
+    for (let thingo of data) {
+        if (thingo.ID === id) {
+            res.send(thingo);
+            break;
+        }
+    }
+    res.status(404).send(`Cannot find item with id ${id}`);
 })
 
 app.post("/search", (req, res) => {
-    const category = req.query['category'];
-    const search = req.query['search'];
-    const offset = req.query['offset'];
+    const category = req.query['cat'];
+    const search = req.query['q'];
+    const page = req.query['p'] - 1;
 
-  items = [];
-  if (!categories.hasOwnProperty(category)) {
-    return null;
-  }
-  for (let thingo of categories[category]) {
-    if (!search || thingo.includes(search)) {
-      items.push(data[thingo]);
+    let items = [];
+    if (!categories.hasOwnProperty(category)) {
+        res.status(400).send('Search request must include category');
     }
-  }
-  res.send(nextData(offset ?? 0));
+    const catsToSearch = category !== 'all' ? [category] : categories.keys();
+    for (let cat of catsToSearch) {
+        for (let thingo of categories[cat]) {
+            if (!search || thingo.includes(search)) {
+                items.push(data[thingo]);
+            }
+        }
+    }
+    res.send(nextData(page ?? 0, items));
 })
 
 app.post("/next", (req, res) => {
     const offset = req.query['offset'];
-    res.send(nextData(offset))
+    res.status(200).send(nextData(offset))
 })
 
-function nextData(place) {
-  if (!data || place * 20 >= data.length) {
-    return null;
-  }
-  return items.slice(place * 20, Math.min((place + 1) * 20, data.length));
+function nextData(place, items) {
+    if (!data || place * 20 >= data.length) {
+        return [];
+    }
+    return items.slice(place * 20, Math.min((place + 1) * 20, data.length));
 }
-
 
 app.listen(port, () => {
     console.log(`[server]: Server is running at https://localhost:${port}`);
