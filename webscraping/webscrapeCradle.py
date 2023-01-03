@@ -44,6 +44,7 @@ def scrape_page(category, drive):
         ndict["Link"] = link_pages[idx]
         ndict["Category"] = category
         ndict["ID"] = id
+        ndict["Site"] = "Cradle to Cradle"
 
         data_dict[text[0]] = ndict
         category_dict[category].append(text[0])

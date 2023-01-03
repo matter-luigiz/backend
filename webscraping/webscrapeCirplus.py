@@ -34,6 +34,7 @@ def add_to_dict(values, index, image, link):
     newDict["Link"] = link
     newDict["Category"] = category
     newDict["ID"] = id
+    newDict["Site"] = "Cirplus"
     textile_dict[keyStr] = newDict
     category_dict[category].append(keyStr)
     id += 1
