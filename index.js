@@ -66,12 +66,18 @@ app.get("/search", (req, res) => {
     const catsToSearch = category !== 'all' ? [category] : Object.keys(categories);
     for (let cat of catsToSearch) {
         for (let thingo of categories[cat]) {
-            if (!search || thingo.includes(search)) {
+            if (!search || thingo.toLowerCase().includes(search.toLowerCase())) {
                 items.push([thingo, data[thingo]]);
             }
         }
     }
-    res.status(200).send(nextData(page ?? 0, items));
+    items.sort((a, b) => a[0].toLowerCase().localeCompare(b[0].toLowerCase(),undefined, { ignorePunctuation: true }));
+    const sendData = nextData(page ?? 0, items);
+    const dataWithCount = {
+        data: sendData,
+        size: items.length
+    };
+    res.status(200).send(dataWithCount);
 })
 
 app.get("/next", (req, res) => {
