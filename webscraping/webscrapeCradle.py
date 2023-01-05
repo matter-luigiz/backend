@@ -40,11 +40,11 @@ def scrape_page(category, drive):
         ndict["supplier"] = text[1]
         ndict["description"] = text[2]
         ndict["Sustainability Rating"] = header_text[idx]
-        ndict["Image"] = "https:" + link_images[idx]
+        ndict["Image"] = link_images[idx]
         ndict["Link"] = link_pages[idx]
         ndict["Category"] = category
         ndict["ID"] = id
-        ndict["Site"] = "Cradle to Cradle"
+        ndict["Site"] = "Cradle"
 
         data_dict[text[0]] = ndict
         category_dict[category].append(text[0])
