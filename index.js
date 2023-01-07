@@ -4,6 +4,8 @@ const dotenv = require('dotenv');
 const fs = require('fs');
 const path = require('path');
 const cors = require('cors');
+const {humanReadableCat, trueCat} = require("./categories");
+
 
 dotenv.config();
 
@@ -29,7 +31,10 @@ app.get('/categories', (req, res) => {
         "Access-Control-Allow-Credentials": true
     });
     if (fs.existsSync(filePath)) {
-        res.status(200).sendFile(filePath);
+        const categoresList = JSON.parse(readFileSync(filePath, 'utf8'));
+        res.status(200).send(categoresList.map(cat => (
+            {...cat, name: humanReadableCat(cat.name)}
+        )));
     } else {
         res.status(500).send('Error finding category file');
     }
@@ -53,7 +58,7 @@ app.get("/product/:id", (req, res) => {
 })
 
 app.get("/search", (req, res) => {
-    const category = req.query['cat'];
+    const category = trueCat(req.query['cat']);
     const search = req.query['q'];
     let page = parseInt(req.query['p'] ?? '0');
     page = page === 0 ? 0 : page - 1;
