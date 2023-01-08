@@ -55,7 +55,7 @@ app.get("/product/:id", (req, res) => {
         }
     }
     res.status(404).send(`Cannot find item with id ${id}`);
-})
+});
 
 app.get("/search", (req, res) => {
     const category = trueCat(req.query['cat']);
@@ -83,27 +83,11 @@ app.get("/search", (req, res) => {
         size: items.length
     };
     res.status(200).send(dataWithCount);
-})
+});
 
 app.get("/next", (req, res) => {
     const offset = req.query['offset'];
     res.status(200).send(nextData(offset, Object.entries(data)));
-})
-
-app.get('/:site', (req, res) => {
-    const filePath = path.join(__dirname, 'files/sites', req.params['site'] + '.json');
-    console.log(`[server]: Received request for site ${req.params['site']} -> path is ${filePath}`);
-    res.set({
-        "Content-Type": "application/json",
-        "Access-Control-Allow-Origin": "*",
-        "Access-Control-Allow-Credentials": true
-    });
-    if (fs.existsSync(filePath)) {
-        console.log(`[server]: Found file for site ${req.params['site']}`);
-        res.status(200).sendFile(filePath);
-    } else {
-        res.status(404).send('Cannot find listing for site ' + req.params['site']);
-    }
 });
 
 function nextData(place, items) {
