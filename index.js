@@ -50,7 +50,7 @@ app.get("/product/:id", (req, res) => {
     const dataArr = Object.entries(data);
     for (let thingo of dataArr) {
         if (thingo[1]['ID'] === id) {
-            res.status(200).send(thingo);
+            res.status(200).send([thingo[0], {...thingo[1], Category: humanReadableCat(thingo[1].Category)}]);
             return;
         }
     }
@@ -72,7 +72,7 @@ app.get("/search", (req, res) => {
     for (let cat of catsToSearch) {
         for (let thingo of categories[cat]) {
             if (!search || thingo.toLowerCase().includes(search.toLowerCase())) {
-                items.push([thingo, data[thingo]]);
+                items.push([thingo, {...data[thingo], Category: humanReadableCat(data[thingo].Category)}]);
             }
         }
     }
