@@ -1,8 +1,6 @@
 const readFileSync = require('fs').readFileSync;
 const express = require('express');
 const dotenv = require('dotenv');
-const fs = require('fs');
-const path = require('path');
 const cors = require('cors');
 const {humanReadableCat, trueCat} = require("./categories");
 
@@ -23,21 +21,14 @@ app.get('/', (req, res) => {
 });
 
 app.get('/categories', (req, res) => {
-    console.log('[server]: Received request for categories list');
-    const filePath = path.join(__dirname, 'files/categories.json');
-    res.set({
-        "Content-Type": "application/json",
-        "Access-Control-Allow-Origin": "*",
-        "Access-Control-Allow-Credentials": true
-    });
-    if (fs.existsSync(filePath)) {
-        const categoresList = JSON.parse(readFileSync(filePath, 'utf8'));
-        res.status(200).send(categoresList.map(cat => (
-            {...cat, name: humanReadableCat(cat.name)}
-        )));
-    } else {
-        res.status(500).send('Error finding category file');
+    const catList = [];
+    for (const cat in categories) {
+        let catObj = {name: humanReadableCat(cat), alt: ''};
+        const item = categories[cat][0];
+        catObj['image'] = data[item]['Image'];
+        catList.push(catObj);
     }
+    res.status(200).send(catList);
 });
 
 app.get("/product/:id", (req, res) => {
