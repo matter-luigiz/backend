@@ -277,5 +277,66 @@
         "Vanish Products",
         "Washroom Dispensers",
         "WEPA Professional Toilet Paper 100% recycled 3ply"
+    ],
+    "IMMUNE SUPPORT": [
+        "Defend - Protective Essential Oil Blend 15ml",
+        "Clean Hands Purifying Hand Spray - Defend 2oz.",
+        "Clean Hands Purifying Hand Spray - Lemongrass & Thyme 2oz.",
+        "Alcohol Antiseptic 80% Topical Solution Hand Sanitizer 2oz."
+    ],
+    "BODY BUTTERS": [
+        "Pure Organic Fair Trade African Shea Butter Tub 16oz.",
+        "Organic African Shea Butter 4oz.",
+        "Organic Creamy Cocoa Butter 4oz.",
+        "Organic Mango Butter 4oz.",
+        "Desert Jojoba Butter 4oz.",
+        "Pure Organic Fair Trade Cocoa Butter Tub 16oz."
+    ],
+    "BODY OILS + EXTRACTS": [
+        "Organic Arnica Oil",
+        "Organic Witch Hazel Extract 4oz.",
+        "Organic Golden Jojoba Oil 4oz.",
+        "Organic Castor Oil 4oz.",
+        "Organic Calendula Oil",
+        "Organic Avocado Oil 4oz.",
+        "Organic Almond Oil 4oz.",
+        "Organic African Shea Oil 4oz."
+    ],
+    "BEESWAX": [
+        "Organic Beeswax Pellets",
+        "Organic Beeswax Pellets Tub 16oz."
+    ],
+    "BULK": [
+        "Pure Organic Fair Trade African Shea Butter Tub 16oz.",
+        "Organic Arnica Oil Gallon",
+        "Organic Witch Hazel Extract Gallon",
+        "Organic Vegetable Glycerin Gallon",
+        "Organic Golden Jojoba Oil Gallon",
+        "Organic Clear Jojoba Oil Gallon",
+        "Organic Castor Oil Gallon",
+        "Organic Calendula Oil Gallon",
+        "Organic Avocado Oil Gallon",
+        "Organic Almond Oil Gallon",
+        "Organic African Shea Oil Gallon",
+        "African Black Soap Gallon"
+    ],
+    "FIRST AID": [
+        "Organic Arnica Oil",
+        "Organic Tamanu Oil 0.5oz",
+        "Scar Serum 0.5oz",
+        "Organic Wound Care 0.5oz",
+        "Organic Calendula Oil"
+    ],
+    "PERFUMES": [
+        "Second Nature Natural Perfume Oil 9ml",
+        "Indigo Blush Natural Perfume Oil 9ml",
+        "Temple Blossom Natural Perfume Oil 9ml",
+        "Journey Natural Perfume Oil 9ml",
+        "Liquid Sunshine Natural Perfume Oil 9ml",
+        "Amber Resin",
+        "Egyptian Musk Natural Perfume Oil 3.7ml"
+    ],
+    "SOAP": [
+        "African Black Soap Bar 4oz."
     ]
 }
