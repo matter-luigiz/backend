@@ -1,9 +1,9 @@
 const readFileSync = require('fs').readFileSync;
 const express = require('express');
 const dotenv = require('dotenv');
-const fs = require('fs');
-const path = require('path');
 const cors = require('cors');
+const {humanReadableCat, trueCat} = require("./categories");
+
 
 dotenv.config();
 
@@ -21,18 +21,14 @@ app.get('/', (req, res) => {
 });
 
 app.get('/categories', (req, res) => {
-    console.log('[server]: Received request for categories list');
-    const filePath = path.join(__dirname, 'files/categories.json');
-    res.set({
-        "Content-Type": "application/json",
-        "Access-Control-Allow-Origin": "*",
-        "Access-Control-Allow-Credentials": true
-    });
-    if (fs.existsSync(filePath)) {
-        res.status(200).sendFile(filePath);
-    } else {
-        res.status(500).send('Error finding category file');
+    const catList = [];
+    for (const cat in categories) {
+        let catObj = {name: humanReadableCat(cat), alt: ''};
+        const item = categories[cat][0];
+        catObj['image'] = data[item]['Image'];
+        catList.push(catObj);
     }
+    res.status(200).send(catList);
 });
 
 app.get("/product/:id", (req, res) => {
@@ -45,15 +41,15 @@ app.get("/product/:id", (req, res) => {
     const dataArr = Object.entries(data);
     for (let thingo of dataArr) {
         if (thingo[1]['ID'] === id) {
-            res.status(200).send(thingo);
+            res.status(200).send([thingo[0], {...thingo[1], Category: humanReadableCat(thingo[1].Category)}]);
             return;
         }
     }
     res.status(404).send(`Cannot find item with id ${id}`);
-})
+});
 
 app.get("/search", (req, res) => {
-    const category = req.query['cat'];
+    const category = trueCat(req.query['cat']);
     const search = req.query['q'];
     let page = parseInt(req.query['p'] ?? '0');
     page = page === 0 ? 0 : page - 1;
@@ -67,7 +63,7 @@ app.get("/search", (req, res) => {
     for (let cat of catsToSearch) {
         for (let thingo of categories[cat]) {
             if (!search || thingo.toLowerCase().includes(search.toLowerCase())) {
-                items.push([thingo, data[thingo]]);
+                items.push([thingo, {...data[thingo], Category: humanReadableCat(data[thingo].Category)}]);
             }
         }
     }
@@ -78,27 +74,11 @@ app.get("/search", (req, res) => {
         size: items.length
     };
     res.status(200).send(dataWithCount);
-})
+});
 
 app.get("/next", (req, res) => {
     const offset = req.query['offset'];
     res.status(200).send(nextData(offset, Object.entries(data)));
-})
-
-app.get('/:site', (req, res) => {
-    const filePath = path.join(__dirname, 'files/sites', req.params['site'] + '.json');
-    console.log(`[server]: Received request for site ${req.params['site']} -> path is ${filePath}`);
-    res.set({
-        "Content-Type": "application/json",
-        "Access-Control-Allow-Origin": "*",
-        "Access-Control-Allow-Credentials": true
-    });
-    if (fs.existsSync(filePath)) {
-        console.log(`[server]: Found file for site ${req.params['site']}`);
-        res.status(200).sendFile(filePath);
-    } else {
-        res.status(404).send('Cannot find listing for site ' + req.params['site']);
-    }
 });
 
 function nextData(place, items) {
