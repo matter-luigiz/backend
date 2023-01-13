@@ -32,11 +32,13 @@ app.get('/categories', (req, res) => {
 });
 
 app.get("/product/:id", (req, res) => {
-    const id = parseInt(req.params['id']);
-    if (!id) {
+    const idStr = req.params['id'];
+    if (!idStr) {
         res.status(400).send('Product request must include id');
         return;
     }
+
+    const id = parseInt(idStr);
 
     const dataArr = Object.entries(data);
     for (let thingo of dataArr) {
